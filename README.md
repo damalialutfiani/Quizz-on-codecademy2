@@ -1,2 +1,3 @@
 # Quizz-on-codecademy2
-Contains quizzes on several materials at codecademy
+
+Contains quizzes about some of the material in codecademy **[PART 2]**
