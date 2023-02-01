@@ -9,6 +9,6 @@ Lesson 1 – **Data Setup in Tableau**
 
 2.  All dashboards on a Tableau Public page must be public and viewable by anybody
 
-- [x] Excel and Extracts
+- [x] False
 - [ ] Text files and Excel
 
