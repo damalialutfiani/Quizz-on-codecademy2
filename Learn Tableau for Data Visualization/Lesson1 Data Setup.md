@@ -6,3 +6,9 @@ Lesson 1 – **Data Setup in Tableau**
 - [x] Text files and Excel
 - [ ] SQL Server and text files
 - [ ] MySQL and Excel
+
+2.  All dashboards on a Tableau Public page must be public and viewable by anybody
+
+- [ ] Excel and Extracts
+- [x] Text files and Excel
+
