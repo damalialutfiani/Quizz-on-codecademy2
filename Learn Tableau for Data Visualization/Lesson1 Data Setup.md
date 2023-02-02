@@ -12,3 +12,7 @@ Lesson 1 – **Data Setup in Tableau**
 - [x] False
 - [ ] True
 
+2.  All dashboards on a Tableau Public page must be public and viewable by anybody
+
+- [x] False
+- [ ] True
