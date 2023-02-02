@@ -7,12 +7,12 @@ Lesson 1 – **Data Setup in Tableau**
 - [ ] SQL Server and text files
 - [ ] MySQL and Excel
 
-2.  All dashboards on a Tableau Public page must be public and viewable by anybody
+2.  All dashboards on a Tableau Public page must be public and viewable by anybody.
 
 - [x] False
 - [ ] True
 
-2.  All dashboards on a Tableau Public page must be public and viewable by anybody
+3.  Tableau will always correctly assign data types to your fields.
 
 - [x] False
 - [ ] True
