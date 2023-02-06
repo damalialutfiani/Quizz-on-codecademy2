@@ -23,3 +23,7 @@ Lesson 1 – **Data Setup in Tableau**
 - [x] False
 
 5. Fill in your answers using drag and drop. After you click Check Answers, you can click any incorrect answers to see explanations.
+
+Length, sales totals, and weight are examples of _____ 
+Name, species, and year are examples of _____ 
+Shoe size is an example of _____ 
