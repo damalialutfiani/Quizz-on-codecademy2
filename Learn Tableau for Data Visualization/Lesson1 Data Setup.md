@@ -28,9 +28,9 @@ Lesson 1 – **Data Setup in Tableau**
         Name, species, and year are examples of _____ 
         Shoe size is an example of _____ 
 
-- [ ] True
-- [x] False
-- [ ] True
+- [ ] workbooks
+- [ ] field names
+- [ ] aggregates
 - [x] False
 - [ ] ds
 - [ ] ccd
