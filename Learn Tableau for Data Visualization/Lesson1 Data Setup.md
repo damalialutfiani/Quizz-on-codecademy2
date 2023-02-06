@@ -27,3 +27,12 @@ Lesson 1 – **Data Setup in Tableau**
         Length, sales totals, and weight are examples of _____ 
         Name, species, and year are examples of _____ 
         Shoe size is an example of _____ 
+
+- [ ] True
+- [x] False
+- [ ] True
+- [x] False
+- [ ] ds
+- [ ] ccd
+- [ ] s
+- [ ] s
