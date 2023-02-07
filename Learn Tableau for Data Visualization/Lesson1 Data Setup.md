@@ -33,6 +33,6 @@ Lesson 1 – **Data Setup in Tableau**
 - [ ] aggregates
 - [x] both dimension and measure
 - [x] measures
-- [ ] ccd
+- [ ] data
 - [ ] s
 - [ ] s
