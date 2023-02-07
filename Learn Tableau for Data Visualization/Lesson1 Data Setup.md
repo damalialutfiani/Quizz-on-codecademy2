@@ -31,7 +31,7 @@ Lesson 1 – **Data Setup in Tableau**
 - [ ] workbooks
 - [ ] field names
 - [ ] aggregates
-- [x] False
+- [x] both dimension and measure
 - [ ] ds
 - [ ] ccd
 - [ ] s
