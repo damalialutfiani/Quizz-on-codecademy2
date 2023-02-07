@@ -34,5 +34,5 @@ Lesson 1 – **Data Setup in Tableau**
 - [x] both dimension and measure
 - [x] measures
 - [ ] data
-- [ ] s
+- [x] dimensions
 - [ ] s
