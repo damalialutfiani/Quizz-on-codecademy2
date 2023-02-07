@@ -32,7 +32,7 @@ Lesson 1 – **Data Setup in Tableau**
 - [ ] field names
 - [ ] aggregates
 - [x] both dimension and measure
-- [ ] ds
+- [x] measures
 - [ ] ccd
 - [ ] s
 - [ ] s
