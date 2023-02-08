@@ -35,4 +35,4 @@ Lesson 1 – **Data Setup in Tableau**
 - [x] measures
 - [ ] data
 - [x] dimensions
-- [ ] -	extracts
+- [ ] extracts
