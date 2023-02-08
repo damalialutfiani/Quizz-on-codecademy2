@@ -43,7 +43,8 @@ Lesson 1 – **Data Setup in Tableau**
         Name, species, and year are examples of **dimensions**
         Shoe size is an example of **both dimension and measure**
 
-6. Filtering is important because it
+6. Filtering is important because it . . .
+
 -	Can help create a more intuitive user experience.
 -	Allows for another level of user interaction with a workbook.
 -	Makes it easier to develop visualizations.
