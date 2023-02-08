@@ -45,8 +45,8 @@ Lesson 1 – **Data Setup in Tableau**
 
 6. Filtering is important because it . . .
 
--	Can help create a more intuitive user experience.
--	Allows for another level of user interaction with a workbook.
--	Makes it easier to develop visualizations.
--	Makes our work load faster
--	**All of the above**
+- [ ]   Can help create a more intuitive user experience.
+- [ ]   Allows for another level of user interaction with a workbook.
+- [ ]   Makes it easier to develop visualizations.
+- [ ]   Makes our work load faster
+- [ ]   **All of the above**
