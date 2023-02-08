@@ -36,3 +36,8 @@ Lesson 1 – **Data Setup in Tableau**
 - [ ] data
 - [x] dimensions
 - [ ] extracts
+
+Click or drag and drop to fill in the blank
+Length, sales totals, and weight are examples of **measures**
+Name, species, and year are examples of **dimensions**
+Shoe size is an example of **both dimension and measure**
