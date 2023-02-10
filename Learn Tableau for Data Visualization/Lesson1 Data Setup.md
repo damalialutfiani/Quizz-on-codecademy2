@@ -9,7 +9,7 @@ Lesson 1 – **Data Setup in Tableau**
 
 2.  All dashboards on a Tableau Public page must be public and viewable by anybody.
 
-- [x] False
+- [x] **False**
 - [ ] True
 
 3.  Tableau will always correctly assign data types to your fields.
