@@ -14,7 +14,7 @@ Lesson 1 – **Data Setup in Tableau**
 
 3.  Tableau will always correctly assign data types to your fields.
 
-- [x] False
+- [x] **False**
 - [ ] True
 
 4.  If Tableau cannot automatically join two tables on a common field, the data sets cannot be joined.
