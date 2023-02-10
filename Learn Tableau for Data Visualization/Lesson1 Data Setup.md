@@ -3,7 +3,7 @@ Lesson 1 – **Data Setup in Tableau**
 1.  What are the two main connection types you can make with Tableau Public?
 
 - [ ] Excel and Extracts
-- [x] Text files and Excel
+- [x] **Text files and Excel**
 - [ ] SQL Server and text files
 - [ ] MySQL and Excel
 
