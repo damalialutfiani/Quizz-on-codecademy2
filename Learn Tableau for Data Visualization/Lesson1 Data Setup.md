@@ -20,7 +20,7 @@ Lesson 1 – **Data Setup in Tableau**
 4.  If Tableau cannot automatically join two tables on a common field, the data sets cannot be joined.
 
 - [ ] True
-- [x] False
+- [x] **False**
 
 5. Fill in your answers using drag and drop. After you click Check Answers, you can click any incorrect answers to see explanations.
 
