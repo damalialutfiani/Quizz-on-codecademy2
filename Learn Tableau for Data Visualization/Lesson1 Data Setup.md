@@ -49,4 +49,4 @@ Lesson 1 – **Data Setup in Tableau**
 - [ ]   Allows for another level of user interaction with a workbook.
 - [ ]   Makes it easier to develop visualizations.
 - [ ]   Makes our work load faster
-- [ ]   **All of the above**
+- [x]   **All of the above**
