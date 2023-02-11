@@ -50,3 +50,5 @@ Lesson 1 – **Data Setup in Tableau**
 - [ ]   Makes it easier to develop visualizations.
 - [ ]   Makes our work load faster
 - [x]   **All of the above**
+
+7. Which is the most useful aggregate?
