@@ -31,10 +31,10 @@ Lesson 1 – **Data Setup in Tableau**
 - [ ] workbooks
 - [ ] field names
 - [ ] aggregates
-- [x] both dimension and measure
-- [x] measures
+- [x] **both dimension and measure**
+- [x] **measures**
 - [ ] data
-- [x] dimensions
+- [x] **dimensions**
 - [ ] extracts
 
    Click or drag and drop to fill in the blank
