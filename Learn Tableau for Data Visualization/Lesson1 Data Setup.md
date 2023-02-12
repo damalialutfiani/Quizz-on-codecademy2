@@ -57,4 +57,4 @@ Lesson 1 – **Data Setup in Tableau**
 - [ ]   Sum
 - [ ]   Median
 - [ ]   Count
-- [ ]   **All of the above**
+- [x]   **All of the above**
