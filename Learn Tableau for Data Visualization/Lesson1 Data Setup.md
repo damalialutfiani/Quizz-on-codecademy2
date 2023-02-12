@@ -52,6 +52,7 @@ Lesson 1 – **Data Setup in Tableau**
 - [x]   **All of the above**
 
 7. Which is the most useful aggregate?
+
 -	Average
 -	Sum
 -	Median
