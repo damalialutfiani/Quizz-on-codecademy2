@@ -53,8 +53,8 @@ Lesson 1 – **Data Setup in Tableau**
 
 7. Which is the most useful aggregate?
 
--	Average
--	Sum
--	Median
--	Count
--	**All of the above**
+- [ ]   Average
+- [ ]   Sum
+- [ ]   Median
+- [ ]   Count
+- [ ]   **All of the above**
