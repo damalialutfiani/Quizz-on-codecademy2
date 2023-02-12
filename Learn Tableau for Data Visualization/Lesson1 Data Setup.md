@@ -58,3 +58,7 @@ Lesson 1 – **Data Setup in Tableau**
 - [ ]   Median
 - [ ]   Count
 - [x]   **All of the above**
+
+8. Measures are numeric variables. Dimensions are categorical variables.
+-	**True**
+-	False
