@@ -60,5 +60,5 @@ Lesson 1 – **Data Setup in Tableau**
 - [x]   **All of the above**
 
 8. Measures are numeric variables. Dimensions are categorical variables.
-- [ ]	**True**
+- [x]	**True**
 - [ ]	False
