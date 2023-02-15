@@ -9,8 +9,8 @@ Lesson 2 – **Data Visualizations in Tableau**
 
 2.  Why is it a good idea to start off on paper?
 
--	**All of the above.**
--	It’s helpful to sketch out a layout and think about what visualizations work with our data.
+- [ ] **All of the above.**
+- [ ] It’s helpful to sketch out a layout and think about what visualizations work with our data.
 -	Tableau has a lot of options, so it’s easier to narrow our choices down on paper first.
 -	Thinking about the purpose, audience, and actions is essential to crafting a story.
 
