@@ -15,5 +15,5 @@ Lesson 2 – **Data Visualizations in Tableau**
 - [ ] Thinking about the purpose, audience, and actions is essential to crafting a story.
 
 3. The range on the axes cannot be adjusted and are dictated by the lowest and largest number from the data field on that particular axis.
--	**False**
--	True
+- [ ] **False**
+- [ ] True
