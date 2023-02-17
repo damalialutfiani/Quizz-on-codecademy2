@@ -17,3 +17,5 @@ Lesson 2 – **Data Visualizations in Tableau**
 3. The range on the axes cannot be adjusted and are dictated by the lowest and largest number from the data field on that particular axis.
 - [x] **False**
 - [ ] True
+
+4.  Even if we use the same data, there is more than one way of representing it.
