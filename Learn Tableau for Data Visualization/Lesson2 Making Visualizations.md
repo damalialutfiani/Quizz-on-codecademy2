@@ -19,3 +19,5 @@ Lesson 2 – **Data Visualizations in Tableau**
 - [ ] True
 
 4.  Even if we use the same data, there is more than one way of representing it.
+-	False
+-	**True**
