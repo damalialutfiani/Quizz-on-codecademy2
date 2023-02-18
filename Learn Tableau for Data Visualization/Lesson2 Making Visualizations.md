@@ -23,6 +23,7 @@ Lesson 2 – **Data Visualizations in Tableau**
 - [x] **True**
 
 5.  Which tool is helpful for storytelling?
+
 -	**All of the above**
 -	Tooltips
 -	Color
