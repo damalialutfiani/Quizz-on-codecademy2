@@ -21,3 +21,5 @@ Lesson 2 – **Data Visualizations in Tableau**
 4.  Even if we use the same data, there is more than one way of representing it.
 - [ ] False
 - [x] **True**
+
+5.  Which tool is helpful for storytelling?
