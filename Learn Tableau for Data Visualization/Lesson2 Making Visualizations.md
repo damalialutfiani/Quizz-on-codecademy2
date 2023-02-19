@@ -29,3 +29,5 @@ Lesson 2 – **Data Visualizations in Tableau**
 - [ ]	Color
 - [ ]	Data sorting
 - [ ]	Annotations
+
+6.  Which of the following is FALSE?
