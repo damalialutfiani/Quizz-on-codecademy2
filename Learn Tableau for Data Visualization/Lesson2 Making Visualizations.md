@@ -28,6 +28,6 @@ Lesson 2 – **Data Visualizations in Tableau**
 - [ ]	Annotations
 
 6.  Which of the following is FALSE?
--	**You can add multiple charts on a single sheet using the New Sheet button**
--	A story can be a combination of sheets or dashboards.
--	Multiple sheets can be combined into a dashboard
+- [ ]	**You can add multiple charts on a single sheet using the New Sheet button**
+- [ ]	A story can be a combination of sheets or dashboards.
+- [ ]	Multiple sheets can be combined into a dashboard
