@@ -24,8 +24,8 @@ Lesson 2 – **Data Visualizations in Tableau**
 
 5.  Which tool is helpful for storytelling?
 
--	**All of the above**
--	Tooltips
--	Color
--	Data sorting
--	Annotations
+- [ ]	**All of the above**
+- [ ]	Tooltips
+- [ ]	Color
+- [ ]	Data sorting
+- [ ]	Annotations
