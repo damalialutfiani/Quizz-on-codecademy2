@@ -33,3 +33,5 @@ Lesson 2 – **Data Visualizations in Tableau**
 - [ ]	Multiple sheets can be combined into a dashboard
 
 7.  Workbook fonts are always in Tableau Book and cannot be changed.
+-	True
+-	**False**
