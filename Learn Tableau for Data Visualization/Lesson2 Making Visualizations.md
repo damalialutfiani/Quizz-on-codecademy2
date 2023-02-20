@@ -31,3 +31,5 @@ Lesson 2 – **Data Visualizations in Tableau**
 - [x]	**You can add multiple charts on a single sheet using the New Sheet button**
 - [ ]	A story can be a combination of sheets or dashboards.
 - [ ]	Multiple sheets can be combined into a dashboard
+
+7.  Workbook fonts are always in Tableau Book and cannot be changed.
