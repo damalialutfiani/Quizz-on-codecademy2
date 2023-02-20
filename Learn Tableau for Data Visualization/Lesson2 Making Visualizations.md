@@ -37,3 +37,7 @@ Lesson 2 – **Data Visualizations in Tableau**
 -	**False**
 
 8.  To change the thickness of the bars on a bar chart, which marks tile would you use?
+-	Details
+-	**Size**
+-	Label
+-	Tooltip
