@@ -34,7 +34,7 @@ Lesson 2 – **Data Visualizations in Tableau**
 
 7.  Workbook fonts are always in Tableau Book and cannot be changed.
 - [ ]	True
-- [ ]	**False**
+- [x]	**False**
 
 8.  To change the thickness of the bars on a bar chart, which marks tile would you use?
 - [ ]	Details
