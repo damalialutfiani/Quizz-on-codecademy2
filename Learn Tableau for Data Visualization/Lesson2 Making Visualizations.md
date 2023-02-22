@@ -43,7 +43,7 @@ Lesson 2 – **Data Visualizations in Tableau**
 - [ ]	Tooltip
 
 9.  Which of the following allows you to make customizations to properties of the visualization like color or size?
--	Pages Shelf
--	Columns and Row Shelf
--	**Marks Card**
--	Show Me Menu
+- [ ] Pages Shelf
+- [ ] Columns and Row Shelf
+- [ ] **Marks Card**
+- [ ] Show Me Menu
