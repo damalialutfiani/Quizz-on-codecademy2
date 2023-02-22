@@ -41,3 +41,5 @@ Lesson 2 – **Data Visualizations in Tableau**
 - [x]	**Size**
 - [ ]	Label
 - [ ]	Tooltip
+
+9.  Which of the following allows you to make customizations to properties of the visualization like color or size?
