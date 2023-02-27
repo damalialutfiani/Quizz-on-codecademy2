@@ -9,3 +9,10 @@ Below is some information about a dataset that we want to load into Tableau. Ass
 A. Type of data source: ______
 B. Type of Connection: ______
 C. How would you exclude Blue & Green? ______
+
+Live
+File
+**Extract**
+**Filters**
+**Server**
+Data Interpreter
