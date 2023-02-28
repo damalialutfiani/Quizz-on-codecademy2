@@ -6,12 +6,12 @@ Article 2 - **Load and Join Data with Tableau**
 
     Below is some information about a dataset that we want to load into Tableau. Assign the proper actions that you would take in preparing the dataset.
     
-    Live
-File
-**Extract**
-**Filters**
-**Server**
-Data Interpreter
+- [ ]   Live
+- [ ]   File
+- [ ]   **Extract**
+- [ ]   **Filters**
+- [ ]   **Server**
+- [ ]   Data Interpreter
 
         A. Type of data source: ______
         B. Type of Connection: ______
