@@ -8,9 +8,9 @@ Article 2 - **Load and Join Data with Tableau**
     
 - [ ]   Live
 - [ ]   File
-- [ ]   **Extract**
-- [ ]   **Filters**
-- [ ]   **Server**
+- [x]   **Extract**
+- [x]   **Filters**
+- [x]   **Server**
 - [ ]   Data Interpreter
 
         A. Type of data source: ______
