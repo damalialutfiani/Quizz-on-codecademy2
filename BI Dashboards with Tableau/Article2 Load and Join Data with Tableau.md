@@ -19,6 +19,6 @@ Article 2 - **Load and Join Data with Tableau**
 
     Click or drag and drop to fill in the blank
 
-A. Type of data source: Server
-B. Type of Connection: Extract
-C. How would you exclude Blue & Green? Filters
+        A. Type of data source: Server
+        B. Type of Connection: Extract
+        C. How would you exclude Blue & Green? Filters
