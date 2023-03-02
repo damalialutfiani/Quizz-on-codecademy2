@@ -30,5 +30,7 @@ Article 2 - **Load and Join Data with Tableau**
     Your boss wants you to create a report using the following tables. Please specify the type of join you would use in the following scenarios.
     
     Table 1
-    ![art 2 1](https://user-images.githubusercontent.com/74751990/222322534-58a81dd8-7fc5-4ac7-a01e-2299d8df256c.jpg)
+    
+    ![art 2 2 - 1](https://user-images.githubusercontent.com/74751990/222322742-151528fe-6165-49b5-9f8c-3e6e68a92690.jpg)
+
 
