@@ -28,3 +28,5 @@ Article 2 - **Load and Join Data with Tableau**
     Fill in the blank
 
     Your boss wants you to create a report using the following tables. Please specify the type of join you would use in the following scenarios.
+    
+    Table 1
