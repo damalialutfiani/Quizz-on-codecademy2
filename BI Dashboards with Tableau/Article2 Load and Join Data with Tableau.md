@@ -33,4 +33,7 @@ Article 2 - **Load and Join Data with Tableau**
     
     ![art 2 2 - 1](https://user-images.githubusercontent.com/74751990/222322742-151528fe-6165-49b5-9f8c-3e6e68a92690.jpg)
 
+    Table 2
+    
+    
 
