@@ -40,7 +40,7 @@ Article 2 - **Load and Join Data with Tableau**
         A. Analysis of every product code and the associated sales: _____
         B. Analysis of only the products that have been ordered: _____
 
-- [ ] **Full Outer Join**
+- [x] **Full Outer Join**
 - [ ] Right Join
 - [ ] **Inner Join**
 
