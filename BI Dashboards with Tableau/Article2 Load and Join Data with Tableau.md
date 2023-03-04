@@ -35,7 +35,7 @@ Article 2 - **Load and Join Data with Tableau**
     
     Table 2
     
-    ![art 2 2 - 2](https://user-images.githubusercontent.com/74751990/222606608-1399b88f-8871-428c-80b3-8976cbb0a067.jpg)
+    ![art 2 2 - 2](https://user-images.githubusercontent.com/74751990/222874109-035089e0-142b-46e5-89f8-2918d89ddc2f.jpg)
 
         A. Analysis of every product code and the associated sales: _____
         B. Analysis of only the products that have been ordered: _____
