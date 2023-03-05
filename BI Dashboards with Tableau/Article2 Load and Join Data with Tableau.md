@@ -45,5 +45,6 @@ Article 2 - **Load and Join Data with Tableau**
 - [x] **Inner Join**
 
     Click or drag and drop to fill in the blank
+    
 A. Analysis of every product code and the associated sales: Full Outer Join
 B. Analysis of only the products that have been ordered: Inner Join
