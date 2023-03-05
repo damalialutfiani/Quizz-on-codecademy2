@@ -42,5 +42,5 @@ Article 2 - **Load and Join Data with Tableau**
 
 - [x] **Full Outer Join**
 - [ ] Right Join
-- [ ] **Inner Join**
+- [x] **Inner Join**
 
