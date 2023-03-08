@@ -26,7 +26,7 @@ Article 3 - **Basic Data Visualizations with Tableau**
 
     Click or drag and drop to fill in the blank
     
-A. Units: Measure
-B. Order Number: Dimension
-C. Date: Dimension
-D. Sales: Measure
+        A. Units: Measure
+        B. Order Number: Dimension
+        C. Date: Dimension
+        D. Sales: Measure
