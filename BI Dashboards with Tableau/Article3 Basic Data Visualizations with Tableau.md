@@ -16,11 +16,11 @@ Article 3 - **Basic Data Visualizations with Tableau**
         D. Sales: ______
 
 - [ ]   Measure
+- [x]   Measure
 - [ ]   Measure
-- [ ]   Measure
-- [ ]   Measure
-- [ ]   Dimension
-- [ ]   Dimension
+- [x]   Measure
+- [x]   Dimension
+- [x]   Dimension
 - [ ]   Dimension
 - [ ]   Dimension
 
