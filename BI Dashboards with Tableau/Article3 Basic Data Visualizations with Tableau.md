@@ -15,11 +15,11 @@ Article 3 - **Basic Data Visualizations with Tableau**
         C. Date: ______
         D. Sales: ______
 
-Measure
-Measure
-Measure
-Measure
-Dimension
-Dimension
-Dimension
-Dimension
+- [ ]   Measure
+- [ ]   Measure
+- [ ]   Measure
+- [ ]   Measure
+- [ ]   Dimension
+- [ ]   Dimension
+- [ ]   Dimension
+- [ ]   Dimension
