@@ -8,7 +8,7 @@ Article 3 - **Basic Data Visualizations with Tableau**
     
     Identify which fields are dimensions and which ones are measures.
 
-    (pict)
+    ![art 3 1](https://user-images.githubusercontent.com/74751990/223855296-f8afd645-4e1a-4845-925b-cb00d4a1f510.jpg)
 
         A. Units: ______
         B. Order Number: ______
