@@ -14,3 +14,12 @@ Article 3 - **Basic Data Visualizations with Tableau**
         B. Order Number: ______
         C. Date: ______
         D. Sales: ______
+
+Measure
+Measure
+Measure
+Measure
+Dimension
+Dimension
+Dimension
+Dimension
