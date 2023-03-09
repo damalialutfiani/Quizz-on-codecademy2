@@ -30,3 +30,5 @@ Article 3 - **Basic Data Visualizations with Tableau**
         B. Order Number: Dimension
         C. Date: Dimension
         D. Sales: Measure
+
+2.  Selecting a Chart Type
