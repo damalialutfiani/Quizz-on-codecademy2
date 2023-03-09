@@ -32,3 +32,7 @@ Article 3 - **Basic Data Visualizations with Tableau**
         D. Sales: Measure
 
 2.  Selecting a Chart Type
+
+Fill in the blank
+Below are a few scenarios that we might run into as we are analyzing our data in Tableau.
+Select the most appropriate chart type that we would most likely use in each of these situations.
