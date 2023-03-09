@@ -41,3 +41,10 @@ A. Validate the dataset: ______
 B. Analyze the ratios between different groups: ______
 C. Track order quantities over time: ______
 D. Identify the top performing categories: ______
+
+Raw Data Table
+Stacked Bar Chart
+Bar Chart
+Gantt Chart
+Pie Chart
+Line Chart
