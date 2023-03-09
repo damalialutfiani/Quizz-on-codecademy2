@@ -36,3 +36,8 @@ Article 3 - **Basic Data Visualizations with Tableau**
 Fill in the blank
 Below are a few scenarios that we might run into as we are analyzing our data in Tableau.
 Select the most appropriate chart type that we would most likely use in each of these situations.
+
+A. Validate the dataset: ______
+B. Analyze the ratios between different groups: ______
+C. Track order quantities over time: ______
+D. Identify the top performing categories: ______
