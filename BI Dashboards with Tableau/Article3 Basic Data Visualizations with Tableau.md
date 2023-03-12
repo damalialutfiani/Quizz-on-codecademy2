@@ -44,9 +44,9 @@ Article 3 - **Basic Data Visualizations with Tableau**
         C. Track order quantities over time: ______
         D. Identify the top performing categories: ______
 
-Raw Data Table
-Stacked Bar Chart
-Bar Chart
-Gantt Chart
-Pie Chart
-Line Chart
+- [ ]Raw Data Table
+- [ ]Stacked Bar Chart
+- [ ]Bar Chart
+- [ ]Gantt Chart
+- [ ]Pie Chart
+- [ ]Line Chart
