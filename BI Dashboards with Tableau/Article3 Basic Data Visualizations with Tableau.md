@@ -52,3 +52,8 @@ Article 3 - **Basic Data Visualizations with Tableau**
 - [ ]Line Chart
 
 Click or drag and drop to fill in the blank
+
+A. Validate the dataset: Raw Data Table
+B. Analyze the ratios between different groups: Stacked Bar Chart
+C. Track order quantities over time: Line Chart
+D. Identify the top performing categories: Bar Chart
