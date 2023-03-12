@@ -50,3 +50,5 @@ Article 3 - **Basic Data Visualizations with Tableau**
 - [ ]Gantt Chart
 - [ ]Pie Chart
 - [ ]Line Chart
+
+Click or drag and drop to fill in the blank
