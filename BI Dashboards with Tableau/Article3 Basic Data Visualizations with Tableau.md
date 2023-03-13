@@ -46,7 +46,7 @@ Article 3 - **Basic Data Visualizations with Tableau**
 
 - [x]   Raw Data Table
 - [x]   Stacked Bar Chart
-- [x]Bar Chart
+- [x]   Bar Chart
 - [ ]Gantt Chart
 - [ ]Pie Chart
 - [x]Line Chart
