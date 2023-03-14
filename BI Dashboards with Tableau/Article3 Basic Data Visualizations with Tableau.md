@@ -49,7 +49,7 @@ Article 3 - **Basic Data Visualizations with Tableau**
 - [x]   Bar Chart
 - [ ]   Gantt Chart
 - [ ]   Pie Chart
-- [x]Line Chart
+- [x]   Line Chart
 
 Click or drag and drop to fill in the blank
 
