@@ -51,7 +51,7 @@ Article 3 - **Basic Data Visualizations with Tableau**
 - [ ]   Pie Chart
 - [x]   Line Chart
 
-Click or drag and drop to fill in the blank
+    Click or drag and drop to fill in the blank
 
 A. Validate the dataset: Raw Data Table
 B. Analyze the ratios between different groups: Stacked Bar Chart
