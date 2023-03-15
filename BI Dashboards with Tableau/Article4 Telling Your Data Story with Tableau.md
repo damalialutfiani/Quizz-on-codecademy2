@@ -8,3 +8,11 @@ A. What Tableau format should you use to deliver this analysis? ______
  B. What is the first step in designing this story? Defining your ______
  C. What should be on each Dashboard no matter what? ______
  D. Which items should be edited on each chart? Colors and ______
+
+Dashboard
+Visualization
+Actionable List
+Objective
+Chart
+Tool tips
+Story
