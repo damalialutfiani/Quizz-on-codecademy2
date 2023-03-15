@@ -16,3 +16,5 @@ Objective
 Chart
 Tool tips
 Story
+
+Click or drag and drop to fill in the blank
