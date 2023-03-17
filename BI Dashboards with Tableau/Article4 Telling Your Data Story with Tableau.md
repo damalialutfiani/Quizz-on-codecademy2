@@ -4,8 +4,8 @@ Fill in the blank
 
 You are creating an analysis for your boss. They have requested an analysis telling them what areas of the business need to be improved and which areas are performing well.
 
-A. What Tableau format should you use to deliver this analysis? ______
- B. What is the first step in designing this story? Defining your ______
+    A. What Tableau format should you use to deliver this analysis? ______
+    B. What is the first step in designing this story? Defining your ______
  C. What should be on each Dashboard no matter what? ______
  D. Which items should be edited on each chart? Colors and ______
 
