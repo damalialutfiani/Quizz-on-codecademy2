@@ -13,8 +13,8 @@ You are creating an analysis for your boss. They have requested an analysis tell
 - [ ]Visualization
 - [ ]Actionable List
 - [ ]Objective
-Chart
-Tool tips
+- [ ]Chart
+- [ ]Tool tips
 Story
 
 Click or drag and drop to fill in the blank
