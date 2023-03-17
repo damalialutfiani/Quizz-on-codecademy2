@@ -11,8 +11,8 @@ You are creating an analysis for your boss. They have requested an analysis tell
 
 - [ ]   Dashboard
 - [ ]   Visualization
-- [ ]Actionable List
-- [ ]Objective
+- [ ]   Actionable List
+- [ ]   Objective
 - [ ]Chart
 - [ ]Tool tips
 - [ ]Story
