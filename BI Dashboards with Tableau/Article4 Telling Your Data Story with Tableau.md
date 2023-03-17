@@ -15,7 +15,7 @@ You are creating an analysis for your boss. They have requested an analysis tell
 - [ ]Objective
 - [ ]Chart
 - [ ]Tool tips
-Story
+- [ ]Story
 
 Click or drag and drop to fill in the blank
 
