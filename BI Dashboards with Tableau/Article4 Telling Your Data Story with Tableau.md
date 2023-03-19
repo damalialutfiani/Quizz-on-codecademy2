@@ -19,7 +19,7 @@ You are creating an analysis for your boss. They have requested an analysis tell
 
     Click or drag and drop to fill in the blank
 
-A. What Tableau format should you use to deliver this analysis? Story
-B. What is the first step in designing this story? Defining your Objective
+    A. What Tableau format should you use to deliver this analysis? Story
+    B. What is the first step in designing this story? Defining your Objective
 C. What should be on each Dashboard no matter what? Actionable List
 D. Which items should be edited on each chart? Colors and Tool tips
