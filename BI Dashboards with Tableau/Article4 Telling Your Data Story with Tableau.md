@@ -12,7 +12,7 @@ You are creating an analysis for your boss. They have requested an analysis tell
 - [ ]   Dashboard
 - [ ]   Visualization
 - [x]   Actionable List
-- [ ]   Objective
+- [x]   Objective
 - [ ]   Chart
 - [x]   Tool tips
 - [x]   Story
