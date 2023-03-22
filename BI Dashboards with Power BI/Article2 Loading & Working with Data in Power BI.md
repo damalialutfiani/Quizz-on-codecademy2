@@ -8,3 +8,10 @@ Below is some information on a data set that we want to load into Power BI. Assi
 A. Type of data source: ______
 B. Power BI option to join queries together: ______ Queries
 C. Exclude Blue & Green: ______
+
+**Filters**
+Sort
+Removals
+Join
+**Merge**
+**Server**
