@@ -15,3 +15,8 @@ Removals
 Join
 **Merge**
 **Server**
+
+Click or drag and drop to fill in the blank
+A. Type of data source: Server
+B. Power BI option to join queries together: Merge Queries
+C. Exclude Blue & Green: Filters
