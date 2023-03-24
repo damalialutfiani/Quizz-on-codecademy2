@@ -10,8 +10,8 @@ Article 2 - **Loading & Working with Data in Power BI**
         B. Power BI option to join queries together: ______ Queries
         C. Exclude Blue & Green: ______
 
-**Filters**
-Sort
+- [ ]   **Filters**
+- [ ]   Sort
 Removals
 Join
 **Merge**
