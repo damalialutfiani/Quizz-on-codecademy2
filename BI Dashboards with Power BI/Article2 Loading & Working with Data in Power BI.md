@@ -19,6 +19,6 @@ Article 2 - **Loading & Working with Data in Power BI**
 
     Click or drag and drop to fill in the blank
     
-        A. Type of data source: Server
-        B. Power BI option to join queries together: Merge Queries
-        C. Exclude Blue & Green: Filters
+      A. Type of data source: Server
+      B. Power BI option to join queries together: Merge Queries
+      C. Exclude Blue & Green: Filters
