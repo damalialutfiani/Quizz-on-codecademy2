@@ -22,3 +22,5 @@ Article 2 - **Loading & Working with Data in Power BI**
       A. Type of data source: Server
       B. Power BI option to join queries together: Merge Queries
       C. Exclude Blue & Green: Filters
+
+2.	Working with Data in Power BI
