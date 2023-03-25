@@ -17,7 +17,7 @@ Article 2 - **Loading & Working with Data in Power BI**
 - [x]   **Merge**
 - [x]   **Server**
 
-Click or drag and drop to fill in the blank
+    Click or drag and drop to fill in the blank
     
         A. Type of data source: Server
         B. Power BI option to join queries together: Merge Queries
