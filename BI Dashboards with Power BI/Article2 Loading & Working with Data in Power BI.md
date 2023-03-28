@@ -34,6 +34,6 @@ Article 2 - **Loading & Working with Data in Power BI**
     Assign the proper actions that you would take in preparing the dataset.
     
     A. Which aggregation would I use if I wanted to count rows in a dataset that potentially had duplicate values in it?  Count ______ Rows
-B. If I want to summarize data, I should select: ______
-C. How would I create custom buckets? ______
+    B. If I want to summarize data, I should select: ______
+    C. How would I create custom buckets? ______
 
