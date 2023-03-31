@@ -41,5 +41,5 @@ Article 2 - **Loading & Working with Data in Power BI**
 - [ ]Sort Data
 - [ ]**Distinct**
 - [ ]**Conditional Column**
-All
-New Data
+- [ ]All
+- [ ]New Data
