@@ -39,7 +39,7 @@ Article 2 - **Loading & Working with Data in Power BI**
 
 - [ ]**Group Data**
 - [ ]Sort Data
-**Distinct**
-**Conditional Column**
+- [ ]**Distinct**
+- [ ]**Conditional Column**
 All
 New Data
