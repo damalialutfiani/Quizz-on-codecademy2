@@ -44,7 +44,7 @@ Article 2 - **Loading & Working with Data in Power BI**
 - [ ]   All
 - [ ]   New Data
 
-Click or drag and drop to fill in the blank
+    Click or drag and drop to fill in the blank
 
 A. Which aggregation would I use if I wanted to count rows in a dataset that potentially had duplicate values in it?  Count Distinct Rows
 B. If I want to summarize data, I should select: Group Data
