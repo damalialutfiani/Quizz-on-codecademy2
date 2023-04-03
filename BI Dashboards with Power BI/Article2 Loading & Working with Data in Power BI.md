@@ -37,9 +37,9 @@ Article 2 - **Loading & Working with Data in Power BI**
         B. If I want to summarize data, I should select: ______
         C. How would I create custom buckets? ______
 
-- [ ]   **Group Data**
+- [x]   **Group Data**
 - [ ]   Sort Data
-- [ ]   **Distinct**
+- [x]   **Distinct**
 - [ ]   **Conditional Column**
 - [ ]   All
 - [ ]   New Data
