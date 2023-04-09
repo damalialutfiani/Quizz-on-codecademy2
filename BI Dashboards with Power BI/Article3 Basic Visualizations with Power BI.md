@@ -2,7 +2,7 @@ Article 3 - **Basic Visualizations with Power BI**
 
 1.	Power BI’s Building Blocks
 
-Fill in the blank
+    Fill in the blank
 
 Below are a few examples of actions that we might take while using Power BI.
 Identify which building blocks are appropriate for the situations.
