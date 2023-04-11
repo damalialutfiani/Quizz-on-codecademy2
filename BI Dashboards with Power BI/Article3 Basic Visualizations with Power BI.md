@@ -13,10 +13,10 @@ Article 3 - **Basic Visualizations with Power BI**
         C. Pull together multiple datasources in a single view: _____ 
         D. Use multiple visualizations to cross filter: _____
 
-Visualization
-App
-Report
-Dashboard
+    Visualization
+    App
+    Report
+    Dashboard
 
 Click or drag and drop to fill in the blank
 
