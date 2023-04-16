@@ -18,7 +18,7 @@ Article 3 - **Basic Visualizations with Power BI**
  -  [ ]   Report
  -  [ ]   Dashboard
 
-Click or drag and drop to fill in the blank
+    Click or drag and drop to fill in the blank
 
 A. Create a chart: Visualization
 B. Share a set of dashboards and spreadsheets: App
