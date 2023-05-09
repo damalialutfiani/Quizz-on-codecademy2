@@ -15,8 +15,8 @@ Article 3 - **Basic Visualizations with Power BI**
 
  -  [x]   Visualization
  -  [x]   App
- -  [ ]   Report
- -  [ ]   Dashboard
+ -  [x]   Report
+ -  [x]   Dashboard
 
     Click or drag and drop to fill in the blank
 
