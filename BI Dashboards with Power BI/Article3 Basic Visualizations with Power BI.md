@@ -22,5 +22,5 @@ Article 3 - **Basic Visualizations with Power BI**
 
         A. Create a chart: Visualization
         B. Share a set of dashboards and spreadsheets: App
-C. Pull together multiple datasources in a single view: Dashboard
+        C. Pull together multiple datasources in a single view: Dashboard
 D. Use multiple visualizations to cross filter: Report 
