@@ -29,5 +29,5 @@ Article 3 - **Basic Visualizations with Power BI**
 
     Fill in the blank
 
-Below are a few scenarios that we might run into as we are analyzing our data in a BI tool. Select the most appropriate chart type that we would most likely use in each of these situations.
+    Below are a few scenarios that we might run into as we are analyzing our data in a BI tool. Select the most appropriate chart type that we would most likely use in each of these situations.
 
