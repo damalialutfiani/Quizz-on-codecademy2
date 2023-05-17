@@ -33,8 +33,8 @@ Article 3 - **Basic Visualizations with Power BI**
     
     Select the most appropriate chart type that we would most likely use in each of these situations.
 
-A. Validate the dataset: ______
-B. Analyze the ratios between different groups: ______
+    A. Validate the dataset: ______
+    B. Analyze the ratios between different groups: ______
 C. Track order quantities over time: ______
 D. Identify the top performing categories: ______
 
