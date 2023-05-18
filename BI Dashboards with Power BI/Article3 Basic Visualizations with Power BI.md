@@ -39,7 +39,7 @@ Article 3 - **Basic Visualizations with Power BI**
     -   []  D. Identify the top performing categories: ______
 
 -   []  Table
-Stacked Bar Chart
+-   []  Stacked Bar Chart
 Line Chart
 Bar Chart
 Click or drag and drop to fill in the blank
