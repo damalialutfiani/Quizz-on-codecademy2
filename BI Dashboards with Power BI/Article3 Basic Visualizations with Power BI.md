@@ -38,7 +38,7 @@ Article 3 - **Basic Visualizations with Power BI**
     -   []  C. Track order quantities over time: ______
     -   []  D. Identify the top performing categories: ______
 
-Table
+-   []  Table
 Stacked Bar Chart
 Line Chart
 Bar Chart
