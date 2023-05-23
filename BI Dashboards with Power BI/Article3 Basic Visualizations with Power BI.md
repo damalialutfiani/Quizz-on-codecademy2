@@ -42,4 +42,5 @@ Article 3 - **Basic Visualizations with Power BI**
 -   []  Stacked Bar Chart
 -   []  Line Chart
 -   []  Bar Chart
+
 Click or drag and drop to fill in the blank
