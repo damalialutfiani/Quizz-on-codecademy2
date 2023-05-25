@@ -40,8 +40,8 @@ Article 3 - **Basic Visualizations with Power BI**
 
 -   [x]  Table
 -   [x]  Stacked Bar Chart
--   []  Line Chart
--   []  Bar Chart
+-   [x]  Line Chart
+-   [x]  Bar Chart
 
 Click or drag and drop to fill in the blank
 
