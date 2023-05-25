@@ -48,3 +48,4 @@ Click or drag and drop to fill in the blank
 A. Validate the dataset: Table
 B. Analyze the ratios between different groups: Stacked Bar Chart
 C. Track order quantities over time: Line Chart
+D. Identify the top performing categories: Bar Chart
