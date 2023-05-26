@@ -43,7 +43,7 @@ Article 3 - **Basic Visualizations with Power BI**
 -   [x]  Line Chart
 -   [x]  Bar Chart
 
-Click or drag and drop to fill in the blank
+    Click or drag and drop to fill in the blank
 
 A. Validate the dataset: Table
 B. Analyze the ratios between different groups: Stacked Bar Chart
