@@ -8,3 +8,5 @@ You are creating an analysis for your boss. They have requested an analysis tell
 
 A. Should you use a page or a dashboard? _______
 B. What is the first step in designing this story? _______
+C. What should be on each Dashboard no matter what? _______
+D. Which items should be edited on each chart? _______ and Colors
