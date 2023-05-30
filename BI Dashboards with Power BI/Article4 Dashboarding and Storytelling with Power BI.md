@@ -15,3 +15,5 @@ D. Which items should be edited on each chart? _______ and Colors
 Page
 **Actionable list**
 **Dashboard**
+**Define the objective**
+Add a chart
