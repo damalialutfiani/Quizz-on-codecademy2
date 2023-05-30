@@ -19,3 +19,6 @@ Page
 Add a chart
 
 Click or drag and drop to fill in the blank
+
+A. Should you use a page or a dashboard? Dashboard
+B. What is the first step in designing this story? Define the objective
