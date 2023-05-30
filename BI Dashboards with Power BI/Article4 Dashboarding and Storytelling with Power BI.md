@@ -17,3 +17,5 @@ Page
 **Dashboard**
 **Define the objective**
 Add a chart
+
+Click or drag and drop to fill in the blank
