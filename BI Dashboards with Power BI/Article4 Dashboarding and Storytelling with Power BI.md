@@ -22,3 +22,5 @@ Click or drag and drop to fill in the blank
 
 A. Should you use a page or a dashboard? Dashboard
 B. What is the first step in designing this story? Define the objective
+C. What should be on each Dashboard no matter what? Actionable list
+D. Which items should be edited on each chart? Tool tips and Colors
