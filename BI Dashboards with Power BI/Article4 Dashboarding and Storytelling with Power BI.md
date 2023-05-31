@@ -6,8 +6,8 @@ Article 4 - **Dashboarding and Storytelling with Power BI**
 
     You are creating an analysis for your boss. They have requested an analysis telling them what areas of the business need to be improved and which areas are performing well.
 
-A. Should you use a page or a dashboard? _______
-B. What is the first step in designing this story? _______
+    A. Should you use a page or a dashboard? _______
+    B. What is the first step in designing this story? _______
 C. What should be on each Dashboard no matter what? _______
 D. Which items should be edited on each chart? _______ and Colors
 
