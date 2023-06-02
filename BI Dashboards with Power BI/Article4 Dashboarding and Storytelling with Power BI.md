@@ -18,7 +18,7 @@ Article 4 - **Dashboarding and Storytelling with Power BI**
 []  **Define the objective**
 []  Add a chart
 
-Click or drag and drop to fill in the blank
+    Click or drag and drop to fill in the blank
 
 A. Should you use a page or a dashboard? Dashboard
 B. What is the first step in designing this story? Define the objective
