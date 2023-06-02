@@ -11,7 +11,7 @@ Article 4 - **Dashboarding and Storytelling with Power BI**
         C. What should be on each Dashboard no matter what? _______
         D. Which items should be edited on each chart? _______ and Colors
 
-    []  **Tool tips**
+-   [ ]  **Tool tips**
 []  Page
 []  **Actionable list**
 []  **Dashboard**
