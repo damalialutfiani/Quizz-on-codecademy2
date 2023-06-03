@@ -16,7 +16,7 @@ Article 4 - **Dashboarding and Storytelling with Power BI**
 -   [ ] **Actionable list**
 -   [ ] **Dashboard**
 -   [ ] **Define the objective**
-[]  Add a chart
+-   [ ] Add a chart
 
     Click or drag and drop to fill in the blank
 
