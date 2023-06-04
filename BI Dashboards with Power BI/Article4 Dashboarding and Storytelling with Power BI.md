@@ -13,7 +13,7 @@ Article 4 - **Dashboarding and Storytelling with Power BI**
 
 -   [x] **Tool tips**
 -   [ ] Page
--   [ ] **Actionable list**
+-   [x] **Actionable list**
 -   [ ] **Dashboard**
 -   [ ] **Define the objective**
 -   [ ] Add a chart
