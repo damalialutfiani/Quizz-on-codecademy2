@@ -22,5 +22,5 @@ Article 4 - **Dashboarding and Storytelling with Power BI**
 
         A. Should you use a page or a dashboard? Dashboard
         B. What is the first step in designing this story? Define the objective
-C. What should be on each Dashboard no matter what? Actionable list
+        C. What should be on each Dashboard no matter what? Actionable list
 D. Which items should be edited on each chart? Tool tips and Colors
