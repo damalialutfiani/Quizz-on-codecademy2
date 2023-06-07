@@ -7,3 +7,5 @@ if (age >= 18 & registered == TRUE) {
 } else {
   can_vote <- FALSE
 }
+
+-	**If age is greater than or equal to 18 and registered is TRUE, set the value of can_vote to TRUE. Otherwise, set it to FALSE.**
