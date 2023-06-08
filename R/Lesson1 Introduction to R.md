@@ -5,7 +5,7 @@ Lesson 1 - **Introduction to R**
         if (age >= 18 & registered == TRUE) {
           can_vote <- TRUE
         } else {
-  can_vote <- FALSE
+          can_vote <- FALSE
 }
 
 -	**If age is greater than or equal to 18 and registered is TRUE, set the value of can_vote to TRUE. Otherwise, set it to FALSE.**
