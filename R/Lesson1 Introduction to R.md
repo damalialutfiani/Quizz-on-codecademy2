@@ -14,3 +14,5 @@ Lesson 1 - **Introduction to R**
 -   [ ] If age is greater than 18 or registered is TRUE, set the value of can_vote to TRUE. Otherwise, set it to FALSE.
 
 2.
+
+3.
