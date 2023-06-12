@@ -15,4 +15,4 @@ Lesson 1 - **Introduction to R**
 
 2.	Which of the following examples includes a function call with two arguments?
 
-3.
+-	**sum(289,398)**
