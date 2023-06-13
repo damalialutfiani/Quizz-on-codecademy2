@@ -16,6 +16,6 @@ Lesson 1 - **Introduction to R**
 2.	Which of the following examples includes a function call with two arguments?
 
 -   [ ]	**sum(289,398)**
--	numbers <- c(22,33,44,55)
+-   [ ]	numbers <- c(22,33,44,55)
 -	population <- '7 billion'
 -	length(data)
