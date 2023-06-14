@@ -19,3 +19,5 @@ Lesson 1 - **Introduction to R**
 -   [ ]	numbers <- c(22,33,44,55)
 -   [ ]	population <- '7 billion'
 -   [ ]	length(data)
+
+3.	Which of the following defined variables has a logical value?
