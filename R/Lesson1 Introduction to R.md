@@ -18,4 +18,4 @@ Lesson 1 - **Introduction to R**
 -   [ ]	**sum(289,398)**
 -   [ ]	numbers <- c(22,33,44,55)
 -   [ ]	population <- '7 billion'
--	length(data)
+-   [ ]	length(data)
