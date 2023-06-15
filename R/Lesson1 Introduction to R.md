@@ -21,3 +21,8 @@ Lesson 1 - **Introduction to R**
 -   [ ]	length(data)
 
 3.	Which of the following defined variables has a logical value?
+
+cool_variable1 = 324.2
+cool_variable2 = "Hola, mucho gusto."
+cool_variable3 = FALSE
+cool_variable4 = 0
