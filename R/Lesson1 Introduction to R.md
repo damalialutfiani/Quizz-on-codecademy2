@@ -29,5 +29,5 @@ cool_variable4 = 0
 
 -   [ ]	**cool_variable3**
 -   [ ] cool_variable1
--	cool_variable4
+-   [ ] cool_variable4
 -	cool_variable2
