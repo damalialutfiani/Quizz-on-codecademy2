@@ -27,7 +27,7 @@ cool_variable2 = "Hola, mucho gusto."
 cool_variable3 = FALSE
 cool_variable4 = 0
 
--   [ ]	**cool_variable3**
+-   [x]	**cool_variable3**
 -   [ ] cool_variable1
 -   [ ] cool_variable4
 -   [ ] cool_variable2
