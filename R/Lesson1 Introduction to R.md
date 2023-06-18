@@ -31,3 +31,5 @@ cool_variable4 = 0
 -   [ ] cool_variable1
 -   [ ] cool_variable4
 -   [ ] cool_variable2
+
+4.	What is the outcome of the following code snippet?
