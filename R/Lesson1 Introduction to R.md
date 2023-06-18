@@ -35,3 +35,5 @@ Lesson 1 - **Introduction to R**
 4.	What is the outcome of the following code snippet?
 
 (15	+ 5) * 2 - 2
+
+-	23
