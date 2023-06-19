@@ -37,3 +37,4 @@ Lesson 1 - **Introduction to R**
 (15	+ 5) * 2 - 2
 
 -	23
+-	**38**
