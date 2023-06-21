@@ -40,3 +40,5 @@ Lesson 1 - **Introduction to R**
 -   [x]	**38**
 -   [ ]	0
 -   [ ]	2
+
+5.	Which of the following is a false statement about vectors?
