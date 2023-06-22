@@ -46,3 +46,4 @@ Lesson 1 - **Introduction to R**
 -	Vectors are created by calling the c() function and passing in arguments to add to the 
 -	**Vectors can store items of different data types.**
 -	You can retrieve the length of a vector by calling the length() function and passing in the vector as an argument.
+-	Vectors are list-like data-structures.
