@@ -49,7 +49,7 @@ Lesson 1 - **Introduction to R**
 -   [ ] Vectors are list-like data-structures.
 
 6.	Which of the following is an example of a single line comment?
--	// This is a comment.
+-   [ ]	// This is a comment.
 -	** # This is a comment**
 -	This is a comment.
 -	/* This is a comment */
