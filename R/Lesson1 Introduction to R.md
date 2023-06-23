@@ -52,3 +52,4 @@ Lesson 1 - **Introduction to R**
 -	// This is a comment.
 -	** # This is a comment**
 -	This is a comment.
+-	/* This is a comment */
