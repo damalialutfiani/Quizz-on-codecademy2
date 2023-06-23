@@ -50,3 +50,4 @@ Lesson 1 - **Introduction to R**
 
 6.	Which of the following is an example of a single line comment?
 -	// This is a comment.
+-	** # This is a comment**
