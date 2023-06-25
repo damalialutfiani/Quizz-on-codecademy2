@@ -53,3 +53,5 @@ Lesson 1 - **Introduction to R**
 -   [x] **# This is a comment**
 -   [ ]	This is a comment.
 -   [ ] /* This is a comment */
+
+7.	Which of the following creates a variable with arrow syntax called student_count with a character value of 23?
