@@ -58,3 +58,4 @@ Lesson 1 - **Introduction to R**
    -	**student_count <- '23'**
    -	-	student_count = 23
      -	-	student_count = '23'
+      	-	student_count <- 23
