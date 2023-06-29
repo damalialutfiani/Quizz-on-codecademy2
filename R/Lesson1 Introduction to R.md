@@ -61,3 +61,4 @@ Lesson 1 - **Introduction to R**
 -   [ ]	student_count <- 23
 
 8.	Which of the following statements about variables is true?
+-	**Variables store information in your program and associate that information with a name.**
