@@ -62,3 +62,4 @@ Lesson 1 - **Introduction to R**
 
 8.	Which of the following statements about variables is true?
 -	**Variables store information in your program and associate that information with a name.**
+-	Once a variable has been created, you cannot change its value.
