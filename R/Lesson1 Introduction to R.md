@@ -59,3 +59,5 @@ Lesson 1 - **Introduction to R**
 -   [ ]	student_count = 23
 -   [ ]	student_count = '23'
 -   [ ]	student_count <- 23
+
+8.	Which of the following statements about variables is true?
