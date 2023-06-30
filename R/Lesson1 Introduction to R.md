@@ -64,3 +64,4 @@ Lesson 1 - **Introduction to R**
 -	**Variables store information in your program and associate that information with a name.**
 -	Once a variable has been created, you cannot change its value.
 -	The only way to assign a variable name is with <- arrow syntax.
+-	Variable names can start with letters, numbers, and a period or underscore character.
