@@ -11,3 +11,4 @@ filter(-age)
 -	customers %>%
 filter(age)
 -	customers %>%
+select(-age)
