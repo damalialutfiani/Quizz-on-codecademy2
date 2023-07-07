@@ -11,7 +11,7 @@ Lesson 2 - **Manipulating Data Frames in R**
 filter(-age)
 -   [ ]	customers %>%
 filter(age)
--	customers %>%
+-   [ ]	customers %>%
 select(-age)
 -	**customers %>%
 select(age)**
