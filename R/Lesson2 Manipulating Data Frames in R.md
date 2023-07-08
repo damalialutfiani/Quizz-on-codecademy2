@@ -19,4 +19,4 @@ Lesson 2 - **Manipulating Data Frames in R**
 
                   select(-age)
 -   [x]	**customers %>%
-select(age)**
+                  select(age)**
