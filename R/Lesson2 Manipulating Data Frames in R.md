@@ -28,3 +28,4 @@ mutate(total_absent_late = days_absent + days_late)
 -	**attendance %>%
  	transmute(student_name = student_name,
 total_absent_late = days_absent + days_late)**
+-	attendance %>%
