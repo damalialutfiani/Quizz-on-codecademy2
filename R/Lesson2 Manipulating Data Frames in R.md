@@ -24,3 +24,4 @@ Lesson 2 - **Manipulating Data Frames in R**
 -	attendance %>%
 transmute(total_absent_late = days_absent + days_late)
 -	attendance %>%
+mutate(total_absent_late = days_absent + days_late)
