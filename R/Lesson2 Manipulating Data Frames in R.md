@@ -23,7 +23,7 @@ Lesson 2 - **Manipulating Data Frames in R**
 3.	The table below represents a data frame attendance which stores attendance data for students at a high school. What piece of code would create a new data frame containing student names and the total number of days absent or late?
 -   [ ]  attendance %>%
 transmute(total_absent_late = days_absent + days_late)
--	attendance %>%
+-   [ ]  attendance %>%
 mutate(total_absent_late = days_absent + days_late)
 -	**attendance %>%
  	transmute(student_name = student_name,
