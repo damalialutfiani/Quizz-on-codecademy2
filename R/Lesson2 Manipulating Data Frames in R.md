@@ -25,6 +25,7 @@ Lesson 2 - **Manipulating Data Frames in R**
 
 transmute(total_absent_late = days_absent + days_late)
 -   [ ]  attendance %>%
+        
 mutate(total_absent_late = days_absent + days_late)
 -   [ ]  **attendance %>%
  	transmute(student_name = student_name,
