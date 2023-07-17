@@ -34,6 +34,6 @@ Lesson 2 - **Manipulating Data Frames in R**
         total_absent_late = days_absent + days_late)**
 -   [ ]  attendance %>%
 
-mutate(student_name = student_name,
+        mutate(student_name = student_name,
 
 total_absent_late = days_absent + days_late)
