@@ -19,7 +19,7 @@ Lesson 2 - **Manipulating Data Frames in R**
                   select(-age)
 -   [x]	customers %>%
 
-       	          select(age)**
+       	          select(age)
 
 3.	The table below represents a data frame attendance which stores attendance data for students at a high school. What piece of code would create a new data frame containing student names and the total number of days absent or late?
 -   [ ]  attendance %>%
