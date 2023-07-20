@@ -39,3 +39,4 @@ Lesson 2 - **Manipulating Data Frames in R**
 
           total_absent_late = days_absent + days_late)
 
+4.	You import photo data from a social media website into a data frame photos. 
