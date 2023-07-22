@@ -10,8 +10,7 @@ Lesson 2 - **Manipulating Data Frames in R**
 -   [ ] customers %>%
 
         filter(-age)
-       	
--   [ ]	        customers %>%
+-   [ ]	customers %>%
 
                   filter(age)
 -   [ ]	customers %>%
