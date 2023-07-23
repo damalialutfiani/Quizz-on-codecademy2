@@ -42,3 +42,4 @@ Lesson 2 - **Manipulating Data Frames in R**
 -	**photos %>%
 rename(num_likes = likes, num_comments = comments)**
 -	photos %>%
+colnames(num_likes = likes, num_comments = comments)
