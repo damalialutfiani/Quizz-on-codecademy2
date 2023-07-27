@@ -40,6 +40,7 @@ Lesson 2 - **Manipulating Data Frames in R**
 
 4.	You import photo data from a social media website into a data frame photos. The three columns are photo_id, likes, and comments, representing the unique photo identifier, the number of likes on a photo, and the number of comments on a photo, respectively. What piece of code would you use to update the name of the likes column to num_likes and the comments column to num_comments?
 -   [x]	photos %>%
+
 rename(num_likes = likes, num_comments = comments)
 -   [ ]	photos %>%
 colnames(num_likes = likes, num_comments = comments)
