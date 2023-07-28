@@ -50,7 +50,7 @@ Lesson 2 - **Manipulating Data Frames in R**
         rename(likes = num_likes, comments = num_comments)
 -   [ ]	photos %>%
         
-colnames(likes = num_likes, comments = num_comments)
+        colnames(likes = num_likes, comments = num_comments)
 
 5.	Which of the following commands will correctly import the file content_inventory.csv into a data frame content?
 - **content <- read_csv('content_inventory.csv')**
