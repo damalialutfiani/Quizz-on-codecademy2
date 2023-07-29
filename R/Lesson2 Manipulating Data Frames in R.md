@@ -55,5 +55,5 @@ Lesson 2 - **Manipulating Data Frames in R**
 5.	Which of the following commands will correctly import the file content_inventory.csv into a data frame content?
 -   [x] **content <- read_csv('content_inventory.csv')**
 -   [ ] content <- read_csv('content_inventory')
-- content <- from_csv('content_inventory.csv')
+-   [ ] content <- from_csv('content_inventory.csv')
 - content <- from_csv('content_inventory')
