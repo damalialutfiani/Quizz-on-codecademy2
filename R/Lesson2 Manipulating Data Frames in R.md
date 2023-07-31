@@ -60,3 +60,4 @@ Lesson 2 - **Manipulating Data Frames in R**
 
 6.	The table below represents a data frame grades that contains students’ scores for 3 units in a Biology course. What piece of code would order the rows of the data frame by the unit 3 scores, in descending order?
 -	grades %>%
+order_by(unit_3)
