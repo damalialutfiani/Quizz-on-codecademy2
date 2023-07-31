@@ -56,4 +56,4 @@ Lesson 2 - **Manipulating Data Frames in R**
 -   [x] **content <- read_csv('content_inventory.csv')**
 -   [ ] content <- read_csv('content_inventory')
 -   [ ] content <- from_csv('content_inventory.csv')
-- content <- from_csv('content_inventory')
+-   [ ] content <- from_csv('content_inventory')
