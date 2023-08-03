@@ -66,6 +66,7 @@ Lesson 2 - **Manipulating Data Frames in R**
 
         arrange(unit_3)
 -   [x] **grades %>%
-arrange(desc(unit_3))**
+
+        arrange(desc(unit_3))**
 -   [ ]	grades %>%
 order_by(desc(unit_3))
