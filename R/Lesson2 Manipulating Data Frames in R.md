@@ -71,3 +71,5 @@ Lesson 2 - **Manipulating Data Frames in R**
 -   [ ]	grades %>%
 
         order_by(desc(unit_3))
+
+7.	The table below represents a data frame inventory showing the daily inventory and amount of products sold at a local office supply store. You want to add a column to this data frame 
