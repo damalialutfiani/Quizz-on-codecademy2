@@ -75,3 +75,4 @@ Lesson 2 - **Manipulating Data Frames in R**
 7.	The table below represents a data frame inventory showing the daily inventory and amount of products sold at a local office supply store. You want to add a column to this data frame to determine how many of each item is remaining at the end of the day. Which of the following lines of code would accomplish this?
 -	inventory %>%
 mutate(remaining_inventory = inventory.initial_inventory - inventory.number_sold)
+-	inventory %>%
