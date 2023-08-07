@@ -78,4 +78,4 @@ mutate(remaining_inventory = inventory.initial_inventory - inventory.number_sold
 -   [ ]	inventory %>%
 transmute(remaining_inventory = inventory.initial_inventory - 
 inventory.number_sold)
--	inventory %>%
+-   [ ]	inventory %>%
