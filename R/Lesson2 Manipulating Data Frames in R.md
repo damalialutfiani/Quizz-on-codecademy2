@@ -82,6 +82,6 @@ Lesson 2 - **Manipulating Data Frames in R**
 -   [ ]	inventory %>%
 
         transmute(remaining_inventory = initial_inventory - number_sold)
--   [ ]	inventory %>%
+-   [x]	inventory %>%
 
-       	mutate(remaining_inventory = initial_inventory - number_sold)**
+       	mutate(remaining_inventory = initial_inventory - number_sold)
