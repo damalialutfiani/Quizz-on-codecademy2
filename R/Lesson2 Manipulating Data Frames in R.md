@@ -67,7 +67,7 @@ Lesson 2 - **Manipulating Data Frames in R**
         arrange(unit_3)
 -   [x] grades %>%
 
-        arrange(desc(unit_3))**
+        arrange(desc(unit_3))
 -   [ ]	grades %>%
 
         order_by(desc(unit_3))
@@ -85,3 +85,5 @@ Lesson 2 - **Manipulating Data Frames in R**
 -   [x]	inventory %>%
 
        	mutate(remaining_inventory = initial_inventory - number_sold)
+
+8.	The table below represents a data frame clinic_visits that shows patient visits over the 
