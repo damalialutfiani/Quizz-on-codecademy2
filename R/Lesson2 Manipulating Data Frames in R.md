@@ -86,4 +86,4 @@ Lesson 2 - **Manipulating Data Frames in R**
 
        	mutate(remaining_inventory = initial_inventory - number_sold)
 
-8.	The table below represents a data frame clinic_visits that shows patient visits over the course of 5 months at two clinic locations. If you wanted to select the row including all of the 
+8.	The table below represents a data frame clinic_visits that shows patient visits over the course of 5 months at two clinic locations. If you wanted to select the row including all of the data for the month of May, which of the following lines of code would you use?
