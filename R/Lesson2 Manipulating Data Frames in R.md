@@ -90,3 +90,4 @@ Lesson 2 - **Manipulating Data Frames in R**
 -	clinic_visits %>% 
 select(month == 'May')
 -	clinic_visits %>% 
+filter(month,'May')
