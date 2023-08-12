@@ -92,3 +92,4 @@ select(month == 'May')
 -	clinic_visits %>% 
 filter(month,'May')
 -	**clinic_visits %>% 
+filter(month == 'May')**
