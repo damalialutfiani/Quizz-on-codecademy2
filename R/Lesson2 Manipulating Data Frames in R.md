@@ -91,3 +91,4 @@ Lesson 2 - **Manipulating Data Frames in R**
 select(month == 'May')
 -	clinic_visits %>% 
 filter(month,'May')
+-	**clinic_visits %>% 
