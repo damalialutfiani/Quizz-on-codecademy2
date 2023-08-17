@@ -7,3 +7,4 @@ df %>%
             suffix = str_sub(year_occurred,5,6))
 
 -	An error because str_sub() does not work with data frame columns
+-	**A data frame with column year containing the year as a number and column suffix containing AD or BC.**
