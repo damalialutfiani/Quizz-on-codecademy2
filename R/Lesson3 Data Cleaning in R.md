@@ -9,4 +9,4 @@ df %>%
 -   [ ]	An error because str_sub() does not work with data frame columns
 -   [ ]	**A data frame with column year containing the year as a number and column suffix containing AD or BC.**
 -   [ ]	A data frame with column year containing AD or BC and column suffix containing the year as a number.
--	A data frame with three columns: year_occurred, year, and suffix
+-   [ ]	A data frame with three columns: year_occurred, year, and suffix
