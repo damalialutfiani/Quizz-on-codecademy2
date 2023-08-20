@@ -12,3 +12,4 @@ Lesson 3 - **Data Cleaning in R**
 -   [ ]	A data frame with three columns: year_occurred, year, and suffix
 
 2.	Which of these two data frames represent “tidy” data?
+-	Neither
