@@ -13,3 +13,4 @@ Lesson 3 - **Data Cleaning in R**
 
 2.	Which of these two data frames represent “tidy” data?
 -	Neither
+-	**1**
