@@ -15,3 +15,4 @@ Lesson 3 - **Data Cleaning in R**
 -	Neither
 -	**1**
 -	2
+-	Both
