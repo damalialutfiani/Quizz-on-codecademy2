@@ -18,7 +18,7 @@ Lesson 3 - **Data Cleaning in R**
 -   [ ]	Both
 
 3.	The table below represents a data frame df that stores the exercises and repetitions of a workout routine. What piece of code would remove any duplicate rows from the data frame?
-   -	df <- df %>%
+-   [ ]	df <- df %>%
 unique()
 -	df <- df %>%
 duplicated()
