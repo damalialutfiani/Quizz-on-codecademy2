@@ -25,3 +25,4 @@ duplicated()
 -	df <- df %>%
 remove_duplicates()
 -	**df <- df %>%
+distinct()**
