@@ -22,7 +22,8 @@ Lesson 3 - **Data Cleaning in R**
 
         unique()
 -   [ ]	df <- df %>%
-duplicated()
+
+        duplicated()
 -   [ ] df <- df %>%
 remove_duplicates()
 -   [x] **df <- df %>%
