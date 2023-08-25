@@ -28,4 +28,5 @@ Lesson 3 - **Data Cleaning in R**
 
         remove_duplicates()
 -   [x] **df <- df %>%
-distinct()**
+
+        distinct()**
