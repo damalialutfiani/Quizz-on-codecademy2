@@ -24,5 +24,5 @@ unique()
 duplicated()
 -   [ ] df <- df %>%
 remove_duplicates()
--	**df <- df %>%
+-   [ ] **df <- df %>%
 distinct()**
