@@ -33,3 +33,4 @@ Lesson 3 - **Data Cleaning in R**
 
 4.	What do we use gather() for?
 -	Dropping duplicate values from a data frame
+-	Making the data frame smaller in size
