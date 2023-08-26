@@ -32,3 +32,4 @@ Lesson 3 - **Data Cleaning in R**
         distinct()
 
 4.	What do we use gather() for?
+-	Dropping duplicate values from a data frame
