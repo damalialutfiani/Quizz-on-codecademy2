@@ -30,3 +30,5 @@ Lesson 3 - **Data Cleaning in R**
 -   [x] df <- df %>%
 
         distinct()
+
+4.	What do we use gather() for?
