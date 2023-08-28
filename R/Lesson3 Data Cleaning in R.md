@@ -36,3 +36,5 @@ Lesson 3 - **Data Cleaning in R**
 -   [ ]	Making the data frame smaller in size
 -   [x]	**Reshaping a data frame into the rows and columns we want**
 -   [ ]	Filling NA values in a data frame
+
+5.	The table below represents a data frame df that stores a statistics final exam scores for a 
