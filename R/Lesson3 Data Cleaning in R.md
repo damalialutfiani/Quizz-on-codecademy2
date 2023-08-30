@@ -38,3 +38,4 @@ Lesson 3 - **Data Cleaning in R**
 -   [ ]	Filling NA values in a data frame
 
 5.	The table below represents a data frame df that stores a statistics final exam scores for a group of students. What would you need to do in order to analyze the students’ scores?
+-	Convert exam_scores to a numeric type and then remove the % symbol using mutate() and gsub().
