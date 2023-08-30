@@ -37,4 +37,4 @@ Lesson 3 - **Data Cleaning in R**
 -   [x]	**Reshaping a data frame into the rows and columns we want**
 -   [ ]	Filling NA values in a data frame
 
-5.	The table below represents a data frame df that stores a statistics final exam scores for a 
+5.	The table below represents a data frame df that stores a statistics final exam scores for a group of students. What would you need to do in order to analyze the students’ scores?
