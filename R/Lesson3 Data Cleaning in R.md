@@ -41,4 +41,4 @@ Lesson 3 - **Data Cleaning in R**
 -   [ ] Convert exam_scores to a numeric type and then remove the % symbol using mutate() and gsub().
 -   [ ]	**Remove the % symbol using mutate() and gsub() and then convert exam_scores to a numeric type.**
 -   [ ]	Convert exam_scores to a numeric type and then remove the % symbol using update() and substitute().
--	Remove the % symbol using update() and substitute() and then convert exam_scores to a numeric type.
+-   [ ]	Remove the % symbol using update() and substitute() and then convert exam_scores to a numeric type.
