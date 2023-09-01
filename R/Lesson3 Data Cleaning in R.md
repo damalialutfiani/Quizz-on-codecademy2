@@ -39,6 +39,6 @@ Lesson 3 - **Data Cleaning in R**
 
 5.	The table below represents a data frame df that stores a statistics final exam scores for a group of students. What would you need to do in order to analyze the students’ scores?
 -   [ ] Convert exam_scores to a numeric type and then remove the % symbol using mutate() and gsub().
--   [ ]	**Remove the % symbol using mutate() and gsub() and then convert exam_scores to a numeric type.**
+-   [x]	**Remove the % symbol using mutate() and gsub() and then convert exam_scores to a numeric type.**
 -   [ ]	Convert exam_scores to a numeric type and then remove the % symbol using update() and substitute().
 -   [ ]	Remove the % symbol using update() and substitute() and then convert exam_scores to a numeric type.
