@@ -42,3 +42,5 @@ Lesson 3 - **Data Cleaning in R**
 -   [x]	**Remove the % symbol using mutate() and gsub() and then convert exam_scores to a numeric type.**
 -   [ ]	Convert exam_scores to a numeric type and then remove the % symbol using update() and substitute().
 -   [ ]	Remove the % symbol using update() and substitute() and then convert exam_scores to a numeric type.
+
+6.	What command do we use to see the types of data that each column in a data frame df holds?
