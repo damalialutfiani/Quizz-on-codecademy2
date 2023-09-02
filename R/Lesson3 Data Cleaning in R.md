@@ -44,3 +44,4 @@ Lesson 3 - **Data Cleaning in R**
 -   [ ]	Remove the % symbol using update() and substitute() and then convert exam_scores to a numeric type.
 
 6.	What command do we use to see the types of data that each column in a data frame df holds?
+-	types(df)
