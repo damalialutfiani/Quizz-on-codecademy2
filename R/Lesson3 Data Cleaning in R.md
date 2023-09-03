@@ -47,3 +47,4 @@ Lesson 3 - **Data Cleaning in R**
 -	types(df)
 -	typeof(df)
 -	**str(df)**
+-	class(df)
