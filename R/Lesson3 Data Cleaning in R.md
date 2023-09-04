@@ -45,6 +45,6 @@ Lesson 3 - **Data Cleaning in R**
 
 6.	What command do we use to see the types of data that each column in a data frame df holds?
 -   [ ]	types(df)
--	typeof(df)
+-   [ ]	typeof(df)
 -	**str(df)**
 -	class(df)
