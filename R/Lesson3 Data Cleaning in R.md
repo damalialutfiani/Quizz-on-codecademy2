@@ -53,3 +53,4 @@ Lesson 3 - **Data Cleaning in R**
 -	Tidyr
 -	**ggplot2**
 -	Dplyr
+-	readr
