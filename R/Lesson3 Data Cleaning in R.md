@@ -52,3 +52,4 @@ Lesson 3 - **Data Cleaning in R**
 7.	Which R library do we not use to open multiple files, load their data into a data frame, and tidy the data?
 -	Tidyr
 -	**ggplot2**
+-	Dplyr
