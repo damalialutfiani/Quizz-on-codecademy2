@@ -59,3 +59,4 @@ Lesson 3 - **Data Cleaning in R**
 -	df %>%
 separate(Semester, c('Season','Year'), '_')
 -	df %>%
+split(Semester,c('Season','Year'),'_')
