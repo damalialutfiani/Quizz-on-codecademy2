@@ -56,3 +56,4 @@ Lesson 3 - **Data Cleaning in R**
 -   [ ]	readr
 
 8.	What command could help us separate out the season and year in the data frame df represented by the table below:
+-	df %>%
