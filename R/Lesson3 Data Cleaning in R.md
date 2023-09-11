@@ -61,3 +61,4 @@ separate(Semester, c('Season','Year'), '_')
 -	df %>%
 split(Semester,c('Season','Year'),'_')
 -	**df %>%
+separate(Semester,c('Season','Year'),' ')**
