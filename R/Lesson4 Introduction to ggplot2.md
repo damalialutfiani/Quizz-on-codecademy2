@@ -4,3 +4,4 @@ Lesson 4 - **Introduction to ggplot2**
 -	Geometries and data.
 -	Aesthetics and geometries.
 -	**The data, the aesthetics, and the geometries.**
+-	Data and layers.
