@@ -10,3 +10,4 @@ Lesson 4 - **Introduction to ggplot2**
 -	The ggplot() function is the first function call required to create any ggplot visualization.
 -	**The ggplot() function maps data on the visualization.**
 -	The ggplot() function binds the data to the ggplot object, or the “canvas” of the graph.
+-	The arguments specified inside the ggplot() function are inherited by all of the subsequent layers.
