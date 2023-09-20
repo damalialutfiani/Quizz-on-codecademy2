@@ -13,3 +13,6 @@ Lesson 4 - **Introduction to ggplot2**
 -  [ ]	The arguments specified inside the ggplot() function are inherited by all of the subsequent layers.
 
 3.	Which arguments in the labs() function would render the following plot?
+
+![R lesson 4 - 1](https://github.com/damalialutfiani/Quizz-on-codecademy2/assets/74751990/7bf997fc-c868-41d9-97ae-9d28b0ae950b)
+
