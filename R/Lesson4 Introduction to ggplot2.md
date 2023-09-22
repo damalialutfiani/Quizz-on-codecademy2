@@ -17,5 +17,5 @@ Lesson 4 - **Introduction to ggplot2**
     ![R lesson 4 - 1](https://github.com/damalialutfiani/Quizz-on-codecademy2/assets/74751990/7bf997fc-c868-41d9-97ae-9d28b0ae950b)
 
 -  [ ]	labs(header="Monthly Rent vs Apartment Size in Brooklyn, NY", caption="Data by StreetEasy (2017)", x="Monthly Rent ($)", y="Apartment Size (sq ft.)")
--	**labs(title="Monthly Rent vs Apartment Size in Brooklyn, NY", subtitle="Data by StreetEasy (2017)", x="Monthly Rent ($)", y="Apartment Size (sq ft.)")**
+-  [ ]	**labs(title="Monthly Rent vs Apartment Size in Brooklyn, NY", subtitle="Data by StreetEasy (2017)", x="Monthly Rent ($)", y="Apartment Size (sq ft.)")**
 -  [ ]	labs(title="Monthly Rent vs Apartment Size in Brooklyn, NY", subtitle="Data by StreetEasy (2017)", xlab="Monthly Rent ($)", ylab="Apartment Size (sq ft.)")
