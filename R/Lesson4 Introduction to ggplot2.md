@@ -22,3 +22,4 @@ Lesson 4 - **Introduction to ggplot2**
 
 4.	Which of the following lines of code assigns color to the data on a scatterplot based on their genre value?
 -	ggplot(aes(color=genre))
+-	**geom_point(aes(color=genre))**
