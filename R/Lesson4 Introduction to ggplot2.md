@@ -24,3 +24,5 @@ Lesson 4 - **Introduction to ggplot2**
 -  [ ]	ggplot(aes(color=genre))
 -  [x]	**geom_point(aes(color=genre))**
 -  [ ]	geom_point(color=genre)
+
+5.	When is it best to use a scatterplot?
