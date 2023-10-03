@@ -27,3 +27,4 @@ Lesson 4 - **Introduction to ggplot2**
 
 5.	When is it best to use a scatterplot?
 -	If you want to show the variability of a dataset.
+-	**If you want to inspect the correlation between two variables.**
