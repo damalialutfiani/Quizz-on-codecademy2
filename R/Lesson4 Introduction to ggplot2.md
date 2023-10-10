@@ -29,3 +29,5 @@ Lesson 4 - **Introduction to ggplot2**
 -  [ ]	If you want to show the variability of a dataset.
 -  [x]	**If you want to inspect the correlation between two variables.**
 -  [ ]	If you want to show the distribution of the dataset.
+
+6.	Add a scatterplot layer to the viz ggplot object that colors the points based on the category variable.
