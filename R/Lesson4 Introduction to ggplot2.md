@@ -31,3 +31,4 @@ Lesson 4 - **Introduction to ggplot2**
 -  [ ]	If you want to show the distribution of the dataset.
 
 6.	Add a scatterplot layer to the viz ggplot object that colors the points based on the category variable.
+___ + ___ (aes( ___ = ___ ))
