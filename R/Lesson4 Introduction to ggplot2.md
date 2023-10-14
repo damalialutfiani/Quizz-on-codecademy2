@@ -33,4 +33,4 @@ Lesson 4 - **Introduction to ggplot2**
 6.	Add a scatterplot layer to the viz ggplot object that colors the points based on the category variable.
 ___ + ___ (aes( ___ = ___ ))
 -	geom_point
-  
+  -	color
