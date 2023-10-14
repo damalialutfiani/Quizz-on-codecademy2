@@ -34,3 +34,4 @@ Lesson 4 - **Introduction to ggplot2**
 ___ + ___ (aes( ___ = ___ ))
 -	geom_point
   -	color
+-	viz
