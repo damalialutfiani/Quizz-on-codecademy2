@@ -35,3 +35,4 @@ ___ + ___ (aes( ___ = ___ ))
 -	geom_point
   -	color
 -	viz
+-	category
