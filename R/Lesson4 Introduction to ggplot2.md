@@ -36,3 +36,4 @@ ___ + ___ (aes( ___ = ___ ))
   -	color
 -	viz
 -	category
+Click or drag and drop to fill in the blank
