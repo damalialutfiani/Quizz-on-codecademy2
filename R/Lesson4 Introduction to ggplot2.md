@@ -35,6 +35,6 @@ ___ + ___ (aes( ___ = ___ ))
 -  [ ]	geom_point
 -  [ ]	color
 -  [ ]	viz
--	category
+-  [ ]	category
 Click or drag and drop to fill in the blank
 viz + geom_point (aes( color = category ))
