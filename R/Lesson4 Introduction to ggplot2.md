@@ -34,7 +34,7 @@ Lesson 4 - **Introduction to ggplot2**
 ___ + ___ (aes( ___ = ___ ))
 -  [x]	geom_point
 -  [x]	color
--  [ ]	viz
+-  [x]	viz
 -  [ ]	category
 
 Click or drag and drop to fill in the blank
