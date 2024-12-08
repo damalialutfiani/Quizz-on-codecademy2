@@ -40,3 +40,6 @@ ___ + ___ (aes( ___ = ___ ))
 Click or drag and drop to fill in the blank
 
         viz + geom_point (aes( color = category ))
+
+7.	What is the difference between manually setting aesthetics and providing aesthetic mappings?
+   
