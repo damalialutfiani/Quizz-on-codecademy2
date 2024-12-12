@@ -42,6 +42,6 @@ Click or drag and drop to fill in the blank
         viz + geom_point (aes( color = category ))
 
 7.	What is the difference between manually setting aesthetics and providing aesthetic mappings?
-   -	Manual aesthetics are data-driven and wrapped in an aes() function while aesthetic mappings provide a single visual value.
+-  [ ]	Manual aesthetics are data-driven and wrapped in an aes() function while aesthetic mappings provide a single visual value.
    -	-	**Aesthetic mappings are data-driven and wrapped in an aes() function while manual aesthetics provide a single visual value.**
      -	-	Aesthetic mappings provide visual instructions while manual aesthetics do not.
