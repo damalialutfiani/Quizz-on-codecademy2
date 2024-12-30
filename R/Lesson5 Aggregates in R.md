@@ -6,4 +6,4 @@ Lesson 5 - Aggregates in R
 -	add new groups to a data frame that are based on per-column metrics
 -	create a new data frame that contains one column for each group a new row with per-group metrics
 
-2.	You are working for an online retailer of mechanical keyboards
+2.	You are working for an online retailer of mechanical keyboards and have access to the customer_purchases data frame.
