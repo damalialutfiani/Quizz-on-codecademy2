@@ -7,3 +7,5 @@ Lesson 5 - Aggregates in R
 -	create a new data frame that contains one column for each group a new row with per-group metrics
 
 2.	You are working for an online retailer of mechanical keyboards and have access to the customer_purchases data frame. In this data frame there is a row for each purchase a customer has made on the site. If the customers’ names are stored in a column called name, what command would you use to determine how many unique customers purchased something from the site?
+customers %>%
+ 		summarize(number_of_unique_customers = _______ (name))
