@@ -11,3 +11,4 @@ customers %>%
  		summarize(number_of_unique_customers = _______ (name))
 
 -	n_distinct
+-	count
