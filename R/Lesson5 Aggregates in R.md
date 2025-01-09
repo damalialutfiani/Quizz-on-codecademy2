@@ -12,3 +12,4 @@ customers %>%
 
 -	n_distinct
 -	count
+-	unique
