@@ -14,3 +14,5 @@ customers %>%
 -	count
 -	unique
 -	distinct
+
+Click or drag and drop to fill in the blank
