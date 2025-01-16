@@ -19,3 +19,5 @@ customers %>%
 Click or drag and drop to fill in the blank
 customers %>%
  		summarize(number_of_unique_customers = n_distinct(name))
+
+3.	A movie review website employs several different critics.
