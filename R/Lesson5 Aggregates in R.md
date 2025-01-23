@@ -24,3 +24,4 @@ customers %>%
 
 movie_ratings %>%
 _____  ( _____ ) %>%
+_____  (average_rating = _____ ( _____ ))
