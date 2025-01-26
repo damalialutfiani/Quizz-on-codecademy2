@@ -27,3 +27,4 @@ _____  ( _____ ) %>%
 _____  (average_rating = _____ ( _____ ))
 
 -	Movie
+-	group_by
