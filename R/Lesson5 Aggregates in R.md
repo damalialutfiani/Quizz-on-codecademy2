@@ -30,3 +30,4 @@ _____  (average_rating = _____ ( _____ ))
 -	group_by
 -	rating
 -	summarize
+-	calculate
