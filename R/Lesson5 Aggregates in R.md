@@ -29,3 +29,4 @@ _____  (average_rating = _____ ( _____ ))
 -	Movie
 -	group_by
 -	rating
+-	summarize
