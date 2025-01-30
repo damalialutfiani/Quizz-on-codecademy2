@@ -31,3 +31,4 @@ _____  (average_rating = _____ ( _____ ))
 -	rating
 -	summarize
 -	calculate
+-	mean
