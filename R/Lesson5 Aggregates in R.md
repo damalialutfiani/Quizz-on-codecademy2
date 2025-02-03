@@ -32,3 +32,4 @@ _____  (average_rating = _____ ( _____ ))
 -	summarize
 -	calculate
 -	mean
+-	critic
