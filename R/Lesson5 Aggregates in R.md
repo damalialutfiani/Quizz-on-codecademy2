@@ -33,3 +33,5 @@ _____  (average_rating = _____ ( _____ ))
 -	calculate
 -	mean
 -	critic
+
+Click or drag and drop to fill in the blank
