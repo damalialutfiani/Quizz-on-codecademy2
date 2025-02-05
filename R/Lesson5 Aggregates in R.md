@@ -35,3 +35,9 @@ _____  (average_rating = _____ ( _____ ))
 -	critic
 
 Click or drag and drop to fill in the blank
+
+movie_ratings %>%
+
+
+
+
