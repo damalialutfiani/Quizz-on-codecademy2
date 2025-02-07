@@ -40,6 +40,6 @@ movie_ratings %>%
 
  group_by(movie) %>%
 
-
+ 			summarize(average_rating = mean(rating))
 
 
