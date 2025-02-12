@@ -42,4 +42,4 @@ movie_ratings %>%
 
  			summarize(average_rating = mean(rating))
 
-4.	Grouping a data frame with group_by()
+4.	Grouping a data frame with group_by() and then piping the result into a filter() 
