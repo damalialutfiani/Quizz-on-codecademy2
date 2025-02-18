@@ -44,5 +44,5 @@ movie_ratings %>%
 
 4.	Grouping a data frame with group_by() and then piping the result into a filter() that uses summary functions allows you to:
 -	filter rows of a data frame based on individual column values rather than per-group metrics
-
+-	filter groups of a data frame based on per-group metrics rather than individual column values
 
