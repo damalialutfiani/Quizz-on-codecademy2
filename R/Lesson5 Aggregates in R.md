@@ -46,4 +46,5 @@ movie_ratings %>%
 -	filter rows of a data frame based on individual column values rather than per-group metrics
 -	filter groups of a data frame based on per-group metrics rather than individual column values
 -	-	**filter rows of a data frame based on per-group metrics rather than individual column values**
+  -	-	filter groups of a data frame based on individual column values rather than per-group metrics
 
