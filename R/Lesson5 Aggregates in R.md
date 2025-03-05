@@ -52,3 +52,4 @@ movie_ratings %>%
 
 checkouts %>%
 _____  ( _____ ) %>%
+_____  (count = _____ )
