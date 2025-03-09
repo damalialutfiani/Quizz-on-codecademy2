@@ -55,4 +55,4 @@ _____  ( _____ ) %>%
 _____  (count = _____ )
 
 -	Summarize
--	-	group_by
+-	group_by
