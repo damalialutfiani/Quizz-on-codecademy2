@@ -60,3 +60,5 @@ _____  (count = _____ )
   -	-	date
     -	-	location
       -	-	book_title
+
+Click or drag and drop to fill in the blank
