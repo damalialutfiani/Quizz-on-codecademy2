@@ -62,3 +62,4 @@ _____  (count = _____ )
       -	-	book_title
 
 Click or drag and drop to fill in the blank
+checkouts %>%
