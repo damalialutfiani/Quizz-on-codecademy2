@@ -63,3 +63,4 @@ _____  (count = _____ )
 
 Click or drag and drop to fill in the blank
 checkouts %>%
+ 		group_by(location) %>%
