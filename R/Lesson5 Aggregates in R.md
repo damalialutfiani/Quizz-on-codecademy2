@@ -56,7 +56,7 @@ _____  (count = _____ )
 
 -	Summarize
 -	group_by
--	-	n()
+-	n()
 -	-	date
 -	-	location
 -	-	book_title
