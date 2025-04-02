@@ -58,7 +58,7 @@ _____  (count = _____ )
 -	group_by
 -	n()
 -	date
--	-	location
+-	location
 -	-	book_title
 
 Click or drag and drop to fill in the blank
