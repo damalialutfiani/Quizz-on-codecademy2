@@ -38,7 +38,7 @@ Click or drag and drop to fill in the blank
 
 movie_ratings %>%
 
- group_by(movie) %>%
+  group_by(movie) %>%
 
  			summarize(average_rating = mean(rating))
 
