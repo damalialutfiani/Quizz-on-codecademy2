@@ -23,8 +23,8 @@ customers %>%
 3.	A movie review website employs several different critics. They store these critics’ movie ratings in a data frame called movie_ratings, which has three columns: critic, movie, and rating. What command would give the average rating for each movie?
 
 movie_ratings %>%
-_____  ( _____ ) %>%
-_____  (average_rating = _____ ( _____ ))
+  _____  ( _____ ) %>%
+    _____  (average_rating = _____ ( _____ ))
 
 -	Movie
 -	group_by
