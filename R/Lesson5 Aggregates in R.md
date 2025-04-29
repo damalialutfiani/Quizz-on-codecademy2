@@ -22,9 +22,6 @@ Lesson 5 - Aggregates in R
             customers %>%
             summarize(number_of_unique_customers = n_distinct (name))
 
-            customers %>%
-
-
 3.	A movie review website employs several different critics. They store these critics’ movie ratings in a data frame called movie_ratings, which has three columns: critic, movie, and rating. What command would give the average rating for each movie?
 
 movie_ratings %>%
