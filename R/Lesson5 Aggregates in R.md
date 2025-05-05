@@ -27,7 +27,7 @@ Lesson 5 - Aggregates in R
             movie_ratings %>%
 
         _____  ( _____ ) %>%
-    _____  (average_rating = _____ ( _____ ))
+                _____  (average_rating = _____ ( _____ ))
 
 -	Movie
 -	group_by
