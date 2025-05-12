@@ -36,7 +36,7 @@ Lesson 5 - Aggregates in R
 -	mean
 -	critic
 
-Click or drag and drop to fill in the blank
+      Click or drag and drop to fill in the blank
 
 movie_ratings %>%
 
