@@ -40,7 +40,7 @@ Lesson 5 - Aggregates in R
 
             movie_ratings %>%
 
-        group_by(movie) %>%
+              group_by(movie) %>%
 
  			summarize(average_rating = mean(rating))
 
