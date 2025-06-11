@@ -52,7 +52,7 @@ Lesson 5 - Aggregates in R
 
             checkouts %>%
                   _____  ( _____ ) %>%
-            _____  (count = _____ )
+                  _____  (count = _____ )
 
 -	Summarize
 -	group_by
