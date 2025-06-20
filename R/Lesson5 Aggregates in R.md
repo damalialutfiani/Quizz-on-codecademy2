@@ -61,7 +61,7 @@ Lesson 5 - Aggregates in R
 -	location
 -	book_title
 
-Click or drag and drop to fill in the blank
+      Click or drag and drop to fill in the blank
 
    checkouts %>%
  		group_by(location) %>%
