@@ -64,6 +64,6 @@ Lesson 5 - Aggregates in R
       Click or drag and drop to fill in the blank
 
          checkouts %>%
- 		group_by(location) %>%
+       		group_by(location) %>%
    
 6.	Consider a data frame inventory for an athletics store with columns product and price.
