@@ -65,5 +65,6 @@ Lesson 5 - Aggregates in R
 
          checkouts %>%
        		group_by(location) %>%
+ 	summarize(count = n())
    
 6.	Consider a data frame inventory for an athletics store with columns product and price.
