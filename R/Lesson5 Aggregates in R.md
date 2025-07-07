@@ -68,3 +68,5 @@ Lesson 5 - Aggregates in R
                     summarize(count = n())
    
 6.	Consider a data frame inventory for an athletics store with columns product and price. product contains the names of different athletic equipment the store has in inventory and price gives the prices of the equipment. Complete the code to find the average price of the items sold by the store.
+
+inventory %>%
