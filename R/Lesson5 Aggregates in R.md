@@ -73,3 +73,4 @@ inventory %>%
 _____  (mean_price = _____ ( _____ ))
 
 -	Mean
+-	-	Calculate
