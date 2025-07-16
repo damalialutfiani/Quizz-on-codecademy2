@@ -75,4 +75,4 @@ _____  (mean_price = _____ ( _____ ))
 -	Mean
 -	Calculate
 -	Price
--	-	group_by
+-	group_by
