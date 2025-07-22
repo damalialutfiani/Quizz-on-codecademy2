@@ -77,4 +77,4 @@ _____  (mean_price = _____ ( _____ ))
 -	Price
 -	group_by
 -	average
--	-	summarize
+-	summarize
