@@ -80,3 +80,5 @@ _____  (mean_price = _____ ( _____ ))
 -	summarize
 -	product
   -	
+
+Click or drag and drop to fill in the blank
