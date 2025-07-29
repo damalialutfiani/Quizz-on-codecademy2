@@ -82,3 +82,5 @@ _____  (mean_price = _____ ( _____ ))
 
 
 Click or drag and drop to fill in the blank
+
+inventory %>%
