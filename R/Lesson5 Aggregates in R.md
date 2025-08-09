@@ -83,4 +83,4 @@ Lesson 5 - Aggregates in R
 
 Click or drag and drop to fill in the blank
 
-inventory %>%
+      inventory %>%
