@@ -10,7 +10,7 @@ Lesson 5 - Aggregates in R
 
       
   	      customers %>%
-  	      summarize(number_of_unique_customers = _______ (name))
+  	            summarize(number_of_unique_customers = _______ (name))
 
 -	n_distinct
 -	count
