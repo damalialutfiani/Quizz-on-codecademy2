@@ -1,1 +1,1 @@
-Lesson 6
+Lesson 6 - **Joining Tables in R**
