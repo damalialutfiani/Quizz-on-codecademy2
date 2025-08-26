@@ -13,7 +13,7 @@ Lesson 5 - Aggregates in R
   	            summarize(number_of_unique_customers = _______ (name))
 
 -  [ ]	n_distinct
--	count
+-  [ ]	count
 -	unique
 -	distinct
 
