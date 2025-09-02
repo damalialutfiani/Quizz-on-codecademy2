@@ -29,7 +29,7 @@ Lesson 5 - Aggregates in R
                 _____  (average_rating = _____ ( _____ ))
 
 -  [ ]	Movie
--	group_by
+-  [ ]	group_by
 -	rating
 -	summarize
 -	calculate
