@@ -32,7 +32,7 @@ Lesson 5 - Aggregates in R
 -  [ ]	group_by
 -  [ ]	rating
 -  [ ]	summarize
--	calculate
+-  [ ]	calculate
 -	mean
 -	critic
 
