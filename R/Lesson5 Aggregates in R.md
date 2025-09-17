@@ -45,7 +45,7 @@ Lesson 5 - Aggregates in R
 4.	Grouping a data frame with group_by() and then piping the result into a filter() that uses summary functions allows you to:
 -  [ ]	filter rows of a data frame based on individual column values rather than per-group metrics
 -  [ ]	filter groups of a data frame based on per-group metrics rather than individual column values
--  [ ]	**filter rows of a data frame based on per-group metrics rather than individual column values**
+-  [x]	**filter rows of a data frame based on per-group metrics rather than individual column values**
 -  [ ]	filter groups of a data frame based on individual column values rather than per-group metrics
 
 5.	The City Library has several branches throughout the area. They collect all of their book checkout data in a data frame called checkouts. The data frame contains the columns location, date, and book_title. If we want to compare the total number of books checked out at each branch, what code could we use?
