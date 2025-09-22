@@ -31,7 +31,7 @@ Lesson 5 - Aggregates in R
 -  [x]	Movie
 -  [x]	group_by
 -  [ ]	rating
--  [ ]	summarize
+-  [x]	summarize
 -  [ ]	calculate
 -  [ ]	mean
 -  [ ]	critic
