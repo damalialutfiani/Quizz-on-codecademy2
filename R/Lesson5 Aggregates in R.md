@@ -30,7 +30,7 @@ Lesson 5 - Aggregates in R
 
 -  [x]	**Movie**
 -  [x]	**group_by**
--  [x]	rating
+-  [x]	**rating
 -  [x]	summarize
 -  [ ]	calculate
 -  [x]	mean
