@@ -33,7 +33,7 @@ Lesson 5 - Aggregates in R
 -  [x]	**rating**
 -  [x]	**summarize**
 -  [ ]	calculate
--  [x]	**mean
+-  [x]	**mean**
 -  [ ]	critic
 
       Click or drag and drop to fill in the blank
