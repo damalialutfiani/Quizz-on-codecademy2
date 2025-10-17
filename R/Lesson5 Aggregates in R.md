@@ -56,7 +56,7 @@ Lesson 5 - Aggregates in R
 
 -  [ ]	Summarize
 -  [ ]	group_by
--	n()
+-  [ ]	n()
 -	date
 -	location
 -	book_title
