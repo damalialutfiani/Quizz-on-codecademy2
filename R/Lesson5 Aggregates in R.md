@@ -55,7 +55,7 @@ Lesson 5 - Aggregates in R
                   _____  (count = _____ )
 
 -  [ ]	Summarize
--  [ ]	group_by
+-  [x]	group_by
 -  [ ]	n()
 -  [ ]	date
 -  [ ]	location
