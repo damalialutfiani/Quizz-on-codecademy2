@@ -54,7 +54,7 @@ Lesson 5 - Aggregates in R
                _____  ( _____ ) %>%
                   _____  (count = _____ )
 
--  [x]	Summarize
+-  [x]	**Summarize
 -  [x]	group_by
 -  [x]	n()
 -  [ ]	date
