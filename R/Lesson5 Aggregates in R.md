@@ -77,7 +77,7 @@ Lesson 5 - Aggregates in R
 -	Price
 -	group_by
 -	average
--	summarize
+-	**summarize
 -	product
 
 
