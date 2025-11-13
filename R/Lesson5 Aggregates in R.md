@@ -72,7 +72,7 @@ Lesson 5 - Aggregates in R
             inventory %>%
                   _____  (mean_price = _____ ( _____ ))
 
--	Mean**
+-	**Mean**
 -	Calculate
 -	Price
 -	group_by
