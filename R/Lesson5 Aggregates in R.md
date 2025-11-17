@@ -73,7 +73,7 @@ Lesson 5 - Aggregates in R
                   _____  (mean_price = _____ ( _____ ))
 
 -	**mean**
--	Calculate
+-	calculate
 -	Price
 -	group_by
 -	average
