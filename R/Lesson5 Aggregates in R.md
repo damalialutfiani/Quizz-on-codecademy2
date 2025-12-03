@@ -78,7 +78,7 @@ Lesson 5 - Aggregates in R
 -  [ ]	group_by
 -  [ ]	average
 -  [ ]	**summarize**
--	product
+-  [ ]	product
 
 
 Click or drag and drop to fill in the blank
