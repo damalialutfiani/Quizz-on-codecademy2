@@ -4,4 +4,4 @@ Lesson 6 - Joining Tables in R
    -	A join where all rows are included, whether they match or not.
    -	A join where all rows from the second data frame are included, but only matching rows from the first data frame
    -	A join where all rows from the first data frame are included, but only matching rows from the second data frame.
-   -	-	A join where only matching rows 
+   -	A join where only matching rows 
