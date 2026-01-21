@@ -5,3 +5,4 @@ Lesson 6 - Joining Tables in R
    -	A join where all rows from the second data frame are included, but only matching rows from the first data frame
    -	A join where all rows from the first data frame are included, but only matching rows from the second data frame.
    -	A join where only matching rows are included.
+2.	Consider two data frames vets and appointments that store the appointment and vet data 
