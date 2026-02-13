@@ -11,3 +11,4 @@ the time of the appointment, and pet_owner_name.
 Complete the code below to join the two data frames and keep only the matching rows.
 
 joined_dfs <- vets %>%
+      _____ ( _____ ,
