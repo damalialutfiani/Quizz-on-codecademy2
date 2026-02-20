@@ -15,5 +15,5 @@ joined_dfs <- vets %>%
             by = _____ )
 
 -	full_join
--	-	right_join
+-	right_join
   -	-	c('id' = 'vet_id')
