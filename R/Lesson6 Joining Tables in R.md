@@ -18,3 +18,4 @@ joined_dfs <- vets %>%
 -	right_join
 -	c('id' = 'vet_id')
 -	inner_join
+-	c('vet_id' = 'id')
