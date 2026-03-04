@@ -20,3 +20,4 @@ joined_dfs <- vets %>%
 -	inner_join
 -	c('vet_id' = 'id')
 -	left_join
+-	-	appointments
