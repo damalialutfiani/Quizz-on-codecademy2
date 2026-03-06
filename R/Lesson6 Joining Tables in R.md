@@ -21,3 +21,4 @@ joined_dfs <- vets %>%
 -	c('vet_id' = 'id')
 -	left_join
 -	appointments
+Click or drag and drop to fill in the blank
