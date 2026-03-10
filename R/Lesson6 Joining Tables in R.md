@@ -23,3 +23,4 @@ joined_dfs <- vets %>%
 -	appointments
 
 Click or drag and drop to fill in the blank
+joined_dfs <- vets %>%
