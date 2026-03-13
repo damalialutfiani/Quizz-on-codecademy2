@@ -26,3 +26,4 @@ Click or drag and drop to fill in the blank
 
 joined_dfs <- vets %>%
 inner_join(appointments,
+   			by = c('id' = 'vet_id'))
