@@ -29,3 +29,4 @@ inner_join(appointments,
    			by = c('id' = 'vet_id'))
 
 3.	Which of the following best describes a left join?
+4.	-	A join where all rows 
