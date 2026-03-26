@@ -24,7 +24,7 @@ joined_dfs <- vets %>%
 
 Click or drag and drop to fill in the blank
 
-   joined_dfs <- vets %>%
+      joined_dfs <- vets %>%
 
       inner_join(appointments,
    
