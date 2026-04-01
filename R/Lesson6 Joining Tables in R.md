@@ -10,7 +10,7 @@ the id and the name of the veterinarian, while appointments has three columns: t
 the time of the appointment, and pet_owner_name.
 Complete the code below to join the two data frames and keep only the matching rows.
 
-   joined_dfs <- vets %>%
+      joined_dfs <- vets %>%
       _____ ( _____ ,
             by = _____ )
 
