@@ -22,7 +22,7 @@ Complete the code below to join the two data frames and keep only the matching r
 -	left_join
 -	appointments
 
-Click or drag and drop to fill in the blank
+   Click or drag and drop to fill in the blank
 
          joined_dfs <- vets %>%
             inner_join(appointments,
