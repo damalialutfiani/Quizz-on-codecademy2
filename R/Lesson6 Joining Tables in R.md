@@ -31,4 +31,4 @@ Click or drag and drop to fill in the blank
 3.	Which of the following best describes a left join?
    -	A join where all rows from the second data frame are included, but only matching rows from the first data frame.
    -	A join where all rows are included, whether they match or not.
-   -	-	A join 
+   -	A join 
