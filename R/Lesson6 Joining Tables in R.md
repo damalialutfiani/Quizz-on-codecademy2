@@ -17,7 +17,7 @@ Complete the code below to join the two data frames and keep only the matching r
 -	full_join
 -	right_join
 -	c('id' = 'vet_id')
--	**inner_join
+-	**inner_join**
 -	c('vet_id' = 'id')
 -	left_join
 -	appointments
