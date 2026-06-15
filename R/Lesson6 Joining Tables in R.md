@@ -20,7 +20,7 @@ Complete the code below to join the two data frames and keep only the matching r
 -	**inner_join**
 -	c('vet_id' = 'id')
 -	left_join
--	**appointments
+-	**appointments**
 
 Click or drag and drop to fill in the blank
 
