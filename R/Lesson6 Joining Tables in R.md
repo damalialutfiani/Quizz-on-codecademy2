@@ -35,3 +35,4 @@ Click or drag and drop to fill in the blank
    -	**A join where all rows from the first data frame are included, but only matching rows from the second data frame.**
 
 4.	Complete the code below to join the two data frames df_one and df_two, keeping all rows from each data frame.
+   joined_dfs 
