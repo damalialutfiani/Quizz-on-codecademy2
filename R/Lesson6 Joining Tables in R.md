@@ -38,4 +38,4 @@ Click or drag and drop to fill in the blank
    
          joined_dfs 
 
-        _____ (df_two)
+           _____ (df_two)
