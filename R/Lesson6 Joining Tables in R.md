@@ -40,3 +40,4 @@ Click or drag and drop to fill in the blank
            _____ (df_two)
 
 -	all_join
+-	-	inner_join
