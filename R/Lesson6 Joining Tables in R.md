@@ -42,4 +42,4 @@ Click or drag and drop to fill in the blank
 -	all_join
 -	inner_join
 -	left right yaaa
--	yap
+-	inner
