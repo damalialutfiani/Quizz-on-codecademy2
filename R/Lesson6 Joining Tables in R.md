@@ -43,3 +43,5 @@ Click or drag and drop to fill in the blank
 -	inner_join
 -	left right yaaa
 -	inner join
+-	right
+ 
