@@ -43,5 +43,4 @@ Click or drag and drop to fill in the blank
 -	inner_join
 -	left right
 -	inner join
--	right join
  
